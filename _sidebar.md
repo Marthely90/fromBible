@@ -21,3 +21,5 @@
     * [PROVERBES XVIII](#chapitre-xviii)
     * [PROVERBES XIX](#chapitre-xix)
     * [PROVERBES XX](#chapitre-xx)
+    * [PROVERBES XXI](#chapitre-xxi)
+    * [PROVERBES XXII](#chapitre-xxii)
