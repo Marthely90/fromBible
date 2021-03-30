@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Ainsi déclare le Seigneur!](#ainsi-déclare-l39eternel)
+* [Je déclare !](#des-déclarations-inspirées-des-proverbes)
     * [PROVERBES I](#chapitre-i)
     * [PROVERBES II](#chapitre-ii)
     * [PROVERBES III](#chapitre-iii)
