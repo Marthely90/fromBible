@@ -18,10 +18,12 @@
     }
   </script>
   <!-- Docsify v4 -->
+  <script src="//unpkg.com/vue/dist/vue.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script>
-    {% comment %} const name = prompt('Quel est ton nom ?','Tu')
-    alert( name) {% endcomment %}
+    var userName
+    do{userName = prompt('Quel est Votre nom et prénom ?')}while(!userName)
+    const message = `Moi, ${userName}`
   </script>
 </body>
 </html>
