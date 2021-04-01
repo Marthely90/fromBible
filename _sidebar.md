@@ -24,3 +24,4 @@
     * [PROVERBES XXI](#chapitre-xxi)
     * [PROVERBES XXII](#chapitre-xxii)
     * [PROVERBES XXIII](#chapitre-xxiii)
+    * [PROVERBES XXIV](#chapitre-xxiv)
