@@ -23,3 +23,4 @@
     * [PROVERBES XX](#chapitre-xx)
     * [PROVERBES XXI](#chapitre-xxi)
     * [PROVERBES XXII](#chapitre-xxii)
+    * [PROVERBES XXIII](#chapitre-xxiii)

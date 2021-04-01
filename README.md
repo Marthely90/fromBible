@@ -152,4 +152,18 @@ Je prête l'oreille et écoute les paroles des sages ; j'ouvre mon esprit à l'e
 
 Je ne profiterai pas de la faiblesse d'un indigent pour le dépouiller et je n'accablerai pas au tribunal un homme sans défense. Je ne me lierai pas à quelqu'un d'irritable et je fuirai la compagnie de celui qui est violent. Je ne me porterais pas garant d'un emprunt ou d'une dette, si  je n'ai pas de quoi payer. Je ne déplacerai pas la limite ancienne, posée par mes pères. Je serai habile dans mon travail, afin d'offrir mes services aux rois.
 
+## <b>CHAPITRE XXIII</b>
+
+> {{ msg }}
+
+Quand je suis à table avec un homme important, je fais attention à ce qui est devant moi; en réfrènant mon appétit, sans convoiter ses bons plats. Je ne me fatigue pas à courir après la richesse: je cesse même d'y penser. Je ne convoiterai, ni ne partagerai le repas d'un homme mal intentionné. Je ne parlerai pas aux oreilles de l'homme stupide: il ne reconnaîtra pas la valeur de mes paroles. Je respecterai la limite ancienne et le terrain des orphelins. J'ouvre mon coeur à l'instruction et mes oreilles aux paroles de la connaissance. Je n'hésitaerai pas à punir mon enfant, pour le préserver du séjour des morts.
+
+Je suis dans la joie quand mon coeur acquiert de la sage et quand je parle avec droiture. Je n'envie pas les pécheurs, mais je suis constamment soumis au Seigneur. C'est alors que j'ai un avenir et mon espérance ne sera pas déçue. Je dirige mon coeur dans le droit chemin. Je ne fréquente pas les ivrognes et les gourmands. J'écouterai mon père car je lui dois ma vie; je ne mépriserai pas ma mère lorsqu'elle aura vieilli. j'apprends à être véridique, sage, discipliné et intelligent; ce sont pour moi des qualités importantes. Je donnerai à mon père et ma mère le bonheur et la joie d'avoir donné la vie à un fils sage et intelligent. Seigneur je te fais confiance et je prend plaisir à suivre ton exemple.
+
+## <b>CHAPITRE XXIV</b>
+
+> {{ msg }}
+
+
+
 </div>
