@@ -168,4 +168,21 @@ Je n'envie pas ce qui font le mal, d'ailleurs je ne recherche pas leur compagnie
 
 Je penses qu'il n'est pas bien de juger avec parti pris; mais une réponses donné avec franchise est une vraie preuve d'amitié. Je n'envisage de bâtir une maison qu'après avoir terminé mes travaux audehors et préparé mes champs pour la récolte. J'estime qu'il ne faut pas accuser un voisin sans motif, même pour se venger.
 
+## <b>CHAPITRE XXV</b>
+
+> {{ msg }}
+
+J'honore Dieu parcequ'Il tient les choses cachées. J'honore les rois parce qu'ils examinent le fonds des choses. Je ne connais pas jusqu'où s'élève le ciel, ni jusqu'où va la profondeur de la terre. Je ne connais pas d'avantage les pensées des rois. Je ne me mettrai pas en avant devant le roi, je préfère qu'il le fasse de sa bouche. Ce que j'ai vu, je ne me présserai pas de le raconter sans aucune preuve. Quand  j'ai un différend avec mon prochain, je le règle avec lui, sans révéler les confidences d'un autre. Je sais qu'une parole juste dite au bon moment est précieuse. Je reçois d'une oreille attentive les avertissements donnés par une parsonne sage. Je porte du réconfort à mon Maître à cause de ma fidélité. Avec beaucoups de patience je persuade le dirigeant, tout comme avec des paroles douces je viens à bout des résistances les plus solides. Quand je trouves du miel, je n'en mange pas trop, pour ne pas être dégouté au point de le vomir. Je ne rend pas trop visite à mon ami, de peur qu'il ne se lasse de moi. Je donnerai à manger et à boire à mes ennemis. Je préfère vivre au coin d'un toit que de partager la maison d'une femme querelleuse.
+
+## <b>CHAPITRE XXVI</b>
+
+> {{ msg }}
+
+Comme le moineau et l'hirondelle qui volettent sans se poser, une malédiction injustifé ne m'atteindra pas. Je ne réponds pas au sot en l'imitant, pour ne pas devenir comme lui; mais je lui réponds comme il le mérite pour qu'il ne s'imagine pas être sage. Je préfère éviter de me mêler d'une dispute qui ne me concerne pas.
+
+## <b>CHAPITRE XXVII</b>
+
+> {{ msg }}
+
+Comment me vanterai-je de ce que je ferai demain ? Je ne sais même pas ce qui arrivera aujourd'hui. Je ne me permet pas de chanter mes louanges, je laisserai ce soin aux autres. Je préfère reprendre ouvertement, que de me taire par amitié. Je n'abandonne pas mes amis, ni ceux de mon père; dans la difficulté : un voisin près de moi vaut mieux qu'un parent qui se trouve loin. Mon coeur est rempli de joie devant une conduite sage. Par prudence, quand je vois venir un malheur je me mets à l'abri. Je m'affine au contact de mon prochain, tout comme le fer aiguise le fer. Je soigne le figuier et prends soin de mon maître, j'en tirerai du fruit et des honneurs. Je trouve chez les autres le reflet de mes propres sentiments. Je suis attentif à mon travail, ainsi qu'à l'état de chacun de mes projets. 
 </div>
