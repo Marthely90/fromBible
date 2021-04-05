@@ -28,3 +28,7 @@
     * [PROVERBES XXV](#chapitre-xxv)
     * [PROVERBES XXVI](#chapitre-xxvi)
     * [PROVERBES XXVII](#chapitre-xxvii)
+    * [PROVERBES XXVIII](#chapitre-xxviii)
+    * [PROVERBES XXIX](#chapitre-xxix)
+    * [PROVERBES XXX](#chapitre-xxx)
+    * [PROVERBES XXXI](#chapitre-xxxi)

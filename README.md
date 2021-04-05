@@ -8,7 +8,7 @@
 
 # Des déclarations inspirées des Proverbes
 
-?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
+?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour mon âme.
 
 <img src='ben-white-LJQEDQAmAnI-unsplash.jpg'/>
 
@@ -42,9 +42,7 @@ J'acquièrs la sagesse et l'intelligence et je ne les oublierai plus. J'aime la 
 
 Je prête une oreille attentive aux paroles pleines de sagesse et d'intelligence. Je me tiens éloigné de la femme d'autruie; je ne m'approche même pas du seuil de se maison.
 
-> <b>PROVERBES 05 : 15 - 20</b>
-
-Ma femme est comme une source d'eau pure. Je bois à cette source ! Je ne laisse pas son eau couler dans les rues et se disperser sur les places publiques. Qu'elle soit pour moi seul ! Je ne la partage pas avec des étrangers. Je la remplie de bonheur, je trouve ma joie dans la campagne de ma jeunesse. Ma femme est aimable, et gracieuse comme la gazelle. Que son corps me comble toujours de plaisir. Je m'abandonne sans cesse à son amour. Pourquoi m'abandonnerais-je à la femme d'un autre ? Pourquoi chercherais-je le plaisir auprès d'une étrangère ?
+?>La mienne est comme une source d'eau pure. Je bois à cette source ! Je ne laisse pas son eau couler dans les rues et se disperser sur les places publiques. Qu'elle soit pour moi seul ! Je ne la partage pas avec des étrangers. Je la remplie de bonheur, je trouve ma joie dans la campagne de ma jeunesse. Ma femme est aimable, et gracieuse comme la gazelle. Que son corps me comble toujours de plaisir. Je m'abandonne sans cesse à son amour. Pourquoi m'abandonnerais-je à la femme d'un autre ? Pourquoi chercherais-je le plaisir auprès d'une étrangère ?
 
 ## <b>CHAPITRE VI</b>
 
@@ -184,5 +182,39 @@ Comme le moineau et l'hirondelle qui volettent sans se poser, une malédiction i
 
 > {{ msg }}
 
-Comment me vanterai-je de ce que je ferai demain ? Je ne sais même pas ce qui arrivera aujourd'hui. Je ne me permet pas de chanter mes louanges, je laisserai ce soin aux autres. Je préfère reprendre ouvertement, que de me taire par amitié. Je n'abandonne pas mes amis, ni ceux de mon père; dans la difficulté : un voisin près de moi vaut mieux qu'un parent qui se trouve loin. Mon coeur est rempli de joie devant une conduite sage. Par prudence, quand je vois venir un malheur je me mets à l'abri. Je m'affine au contact de mon prochain, tout comme le fer aiguise le fer. Je soigne le figuier et prends soin de mon maître, j'en tirerai du fruit et des honneurs. Je trouve chez les autres le reflet de mes propres sentiments. Je suis attentif à mon travail, ainsi qu'à l'état de chacun de mes projets. 
+Comment me vanterai-je de ce que je ferai demain ? Je ne sais même pas ce qui arrivera aujourd'hui. Je ne me permet pas de chanter mes louanges, je laisserai ce soin aux autres. Je préfère reprendre ouvertement, que de me taire par amitié. Je n'abandonne pas mes amis, ni ceux de mon père; dans la difficulté : un voisin près de moi vaut mieux qu'un parent qui se trouve loin. Mon coeur est rempli de joie devant une conduite sage. Par prudence, quand je vois venir un malheur je me mets à l'abri. Je m'affine au contact de mon prochain, tout comme le fer aiguise le fer. Je soigne le figuier et prends soin de mon maître, j'en tirerai du fruit et des honneurs. Je trouve chez les autres le reflet de mes propres sentiments. Je suis attentif à mon travail, ainsi qu'à l'état de chacun de mes projets.
+
+## <b>CHAPITRE XXVIII</b>
+
+> {{ msg }}
+
+J'ai autant d'assurance qu'un jeune lion. La stabilité reigne autour de moi, à cause de mon intelligence et de mon instruction. J'observe la loi, c'est pourquoi je ne peut pas féliciter un méchant. Je comprends très bien tout ce qui est juste parceque je cherche à obéir au Seigneur. J'ai préféré la pauvreté à la richesse, tant que cela me garde dans l'intégrité; j'obéis à la loi, car le bonheur est réservé au hommes intègre. mon triomphe est une grande joie pour tous. Je ne cacherai pas mes transgressions, Mais je les avouerai et je les délaisserrai afin d'obtenir miséricorde. Je trouve mon salut dans la voie de l'intégrité. J'ai beaucoup de pain parceque je cultive mon champs. Je serai comblé de bonheur pour ma fidélité. Je me confie dans le Seigneur c'est pourquoi je connaîtrai la prospérité. Je ne me fie pas au impulsions de mon coeur, je me conduit avec sagesse pour échapper au danger. Je ne manquerai jamais de rien, je suis généreux. 
+
+## <b>CHAPITRE XXIX</b>
+
+> {{ msg }}
+
+J'aime la sagesse, c'est ce qui donne de la joie à mon père. Je déborde de joie. Je sais reconnaître le droit des pauvres et apaiser la colère autour de moi. Je recherche la compagnie des hommes intègres. Je retient et calme ma mauvaise humeur. Je sais qu'il faut traiter même les plus petits avec équité. Je suis attentif aux punitions et aux réprimendes car ils sont source de sagesse. Je corrigerai mes enfants, afin de ne point avoir d'inquiétude à leur sujet : il feront les délices de mon coeur. Je suis heureux parceque j'obéis à la loi de Dieu. J'ai compris que pour accéder aux honneurs, il faut avoir l'esprit humble. Je sais qu'il est dangereux d'avoir peur d'un homme, mais je me confie au Seigneur, c'est ma sécurité. Je suis contre la malhonnêteté.
+
+## <b>CHAPITRE XXX</b>
+
+> {{ msg }}
+
+Je reconnais que toutes les promesses de Dieu sont dignes de confiance. Il est mon bouclier, celui qui me défend. Je n'ajoute rien à ses paroles.
+
+?> Eternel, je te demande deux choses, ne me les refuse pas avant que je meure : garde-moi de dire des paroles fausses ou mensongères, ne me donne ni pauvreté ni richesse ; accorde-moi seulement ce qui m'est nécessaire pour vivre, car dans l'abondance, je pourrais te renier et dire : « Qui est l'Eternel ? » Ou bien, pressé par la misère, je pourrais me mettre à voler et déshonorer ainsi mon Dieu.
+
+## <b>CHAPITRE XXXI</b>
+
+> {{ msg }}
+
+Quand j'écoute les conseils que Lemouel, roi de Massa, a reçu de sa mère, voici ce que j'en tire comme leçons :
+
+Je ne gâcherais pas mes forces avec les femmes, celles qui perdent les rois. IL ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. Ma Femme est vaillante : quel joie de l'avoir trouvé ! Elle a plus de valeur que les perles précieuses. J'ai confiance en elle et notre maison ne manque de rien. Elle ne me cause jamais de tort, mais elle me donne du bonheur tous les jours de ma vie. Que fait-elle ?
+
+?> Elle se procure le nécessaire pour travailler de sa main avec ardeur. Comme un navire marchands, elle amène de loin notre nourriture. Elle se lève avant le jour, prépare le repas et organise les tâches du quotidien. Elle prend le temps de bien réfléchir avant de dépenser l'argent qu'elle gagne. Elle travail avec plein d'énergie et ne laisse jamais ses bras inactifs. Elle travail même la nuit et on peu constater que c'est affaire marche bien. Elle tend la main aux malheureux et est généreuse envers les pauvres. Elle ne crains pas le froid, peu importe la neige, car elle a revêtue toute la famille d'un double vêtement. Elle se fabrique des tapis et porte des habits raffinés. Elle tisse des habits qu'elle vend et livre des ceintures aux marchands. Sa force et sa dignité sont sa parrure; elle envisage l'avenir avec le sourire. Elle s'exprime avec sagesse et sait donner des conseils avec bonté. Elle veille à la bonne marche de la maison et ne nourrit aucune paresse.
+
+Je suis honoré d'être son mari, moi qui siège au conseil de la ville. Nos enfants viennent la féliciter et moi aussi je fait son éloge : "<i>bien des filles montre leur valeur, mai elle, elle les surpasses toutes."</i> Au delà de son charme et de sa beauté, c'est parcequ'elle est soumise au Seigneur, qu'elle est digne de louanges.
+
+<img src='bible-102684_1920.jpg'/>
 </div>
