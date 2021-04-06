@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Méditations</title>
+  <title>myProverbs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -14,16 +14,17 @@
     window.$docsify = {
       name: '',
       repo: '',
-      loadSidebar: true,
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//unpkg.com/vue/dist/vue.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script>
-    var userName = 'Marthely'
-    do{userName = prompt('Quel est votre prénom ?')}while(!userName)
-    const message = `Moi, ${userName}`
+    var name, sexe
+    do{name = prompt('Quel est votre prénom ?')}while(!name)
+    do{sexe = prompt('Êtes-vous un Homme ou une Femme ?')}while(!sexe)
+    const userSexe = sexe.trim().toUpperCase().charAt(0) === 'F'
+    const message = `Moi, ${name}`
   </script>
 </body>
 </html>
