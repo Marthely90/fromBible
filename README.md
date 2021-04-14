@@ -8,7 +8,7 @@
 
 # Des déclarations inspirées des Proverbes
 
-?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour mon âme.
+?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
 
 <img src='ben-white-LJQEDQAmAnI-unsplash.jpg'/>
 
@@ -16,7 +16,7 @@
 
 > {{ msg }}
 
-Je consulterai avec profit les proverbes et j'y trouverai des directives pour comprendre leur sens caché et les propos énigmatiques de ceux qui enseignent la sagesse. Je reconnai l'autorité du Seigneur : c'est l'ABC de ma sagesse. j'écouterai les avertissements de mon père et les conseils de ma mère. Les avertissements de la sagesse, répondent sur moi son Esprit et éclairent mes conseils.
+Je consulterai avec profit les proverbes et j'y trouverai des directives pour comprendre leur sens caché et les propos énigmatiques de ceux qui enseignent la sagesse. Je reconnairai l'autorité du Seigneur : c'est l'ABC de ma sagesse. j'écouterai les avertissements de mon père et les conseils de ma mère. Les avertissements de la sagesse répondront sur moi l'Esprit du Seigneur et éclaireront mes conseils.
 
 ## <b>CHAPITRE II</b>
 
