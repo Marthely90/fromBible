@@ -12,115 +12,331 @@
 
 <img src='ben-white-LJQEDQAmAnI-unsplash.jpg'/>
 
-## <b>CHAPITRE I</b>
+***
+
+## CHAPITRE I : <i>Un trésor dans les proverbes</i> 💎
 
 > {{ msg }}
 
-Je consulterai avec profit les proverbes et j'y trouverai des directives pour comprendre leur sens caché et les propos énigmatiques de ceux qui enseignent la sagesse. Je reconnairai l'autorité du Seigneur : c'est l'ABC de ma sagesse. j'écouterai les avertissements de mon père et les conseils de ma mère. Les avertissements de la sagesse répondront sur moi l'Esprit du Seigneur et éclaireront mes conseils.
+Je consulterai avec profit les proverbes et j'y trouverai des directives pour comprendre leur sens caché et les propos énigmatiques de ceux qui enseignent la sagesse. Je reconnaitrai l'autorité du Seigneur : c'est l'ABC de ma sagesse. J'écouterai les avertissements de mon père et les conseils de ma mère. Les avertissements de la sagesse répondront sur moi l'Esprit du Seigneur et éclaireront mes conseils.
 
-## <b>CHAPITRE II</b>
-
-> {{ msg }}
-
-J'écoute les leçons de la sagesse, je m'efforce de les comprendre. Je demande de l'aide à l'intelligence et j'appelle la raison au secours. Je les cherche comme l'argent, comme un trésor caché. L'Eternel m'aide et me protège comme un bouclier. Il me secour et me garde à cause de mon équité, mon intégrité et ma droiture : c'est le chemin du bonheur. La sagesse est entrée dans mon coeur, la connaissance me donne de la joie, la réflexion me garde de l'erreur et la raison veille sur moi. Je choisis la conduite des bons et j'imite le comportement des justes. J'habiterai ce pays dans la loyauté et l'intégrité.
-
-## <b>CHAPITRE III</b>
+## CHAPITRE II : <i>Le chemin du bonheur</i> 🗽
 
 > {{ msg }}
 
-Grâce aux conseils je connaîtrai le bien-être et une vie longue et heureuse. Je pratique la bonté et la fidélité. Dieu et les hommes m'aiment et apprecient mon bon sens. Je ne me fie pas à ma propre intelligence, mais je place ma confiance dans le Seigneur. J'honore le Seigneur en lui offrant une part de mes revenus : le meilleur de mes récoltes. J'accepte que le Seigneur soit mon éducateur. Je suis heureu car j'ai trouvé la sagesse et découvert la raison. Elles m'aident à vivre longtemps, elles me procurent prospérité et bonheur, elles me dirigent sur des sentiers agréables en toute sécurité. Le discernement et la réflexion, voilà mon guide. Grâce à eux je vis une vie véritable et belle. J'avance avec assurance, aucun obstacle ne me fera tomber. Le soir je me couche sans peur, la nuit mon sommeil est paisible. L'Eternel me garde en sécurité, il écarte tout piège de mes pas, je ne crains rien. Chaque fois que j'en ai la possibilité, je n'hésite pas à faire le bien à ceux qui en ont besoins. Le Seigneur me traite avec bonté, car je suis humble. Il m'honore parceque je suis sage.
+J'écoute les leçons de la sagesse et je m'efforce de les comprendre. Je demande de l'aide à l'intelligence et j'appelle la raison au secours. Je les cherche comme l'argent, comme un trésor caché. 
 
-## <b>CHAPITRE IV</b>
+L'Eternel m'aide et me protège comme un bouclier. Il me secour et me garde à cause de mon équité, mon intégrité et ma droiture : c'est le chemin du bonheur. 
+
+La sagesse est entrée dans mon coeur, la connaissance me donne de la joie, la réflexion me garde de l'erreur et la raison veille sur moi. Je choisis la conduite des bons et j'imite le comportement des justes. J'habiterai ce pays dans la loyauté et l'intégrité.
+
+## CHAPITRE III : <i>Le bouclier du sage</i> 🛡
+
+> {{ msg }}
+
+Grâce aux conseils je connais le bien-être et une vie longue et heureuse. Je pratique la bonté et la fidélité. Dieu et les hommes m'aiment et apprecient mon bon sens. Je ne me fie pas à ma propre intelligence, mais je place ma confiance dans le Seigneur. Je l'honore en Lui offrant une part de mes revenus : le meilleur de mes récoltes. 
+
+J'accepte que le Seigneur soit mon éducateur. Je suis heureu car j'ai trouvé la sagesse et découvert la raison. Elles m'aident à vivre longtemps, elles me procurent prospérité et bonheur, elles me dirigent sur des sentiers agréables en toute sécurité. Le discernement et la réflexion, voilà mon guide. Grâce à eux je vis une vie véritable et belle. 
+
+J'avance avec assurance, aucun obstacle ne me fera tomber. Le soir je me couche sans peur, la nuit mon sommeil est paisible. L'Eternel me garde en sécurité, il écarte tout piège de mes pas, je ne crains rien. 
+
+Chaque fois que j'en ai la possibilité, je n'hésite pas à faire le bien à ceux qui en ont besoins. Le Seigneur me traite avec bonté, pour mon humilité. Il m'honore pour ma sagesse.
+
+## CHAPITRE IV : <i>Acquérir et garder fermement la sagesse</i> 🎓
 
 > {{ msg }}
 
-J'acquièrs la sagesse et l'intelligence et je ne les oublierai plus. J'aime la sagesse et je donne tout ce que je possede pour acquerir l'intelligence. Je ne renierai jamais l'éducation que j'ai reçu; c'est la base de ma vie : j'y reste attaché. Par dessus tout je prendrais garde à ce que je penses au fond de moi-même : ma vie en dépend. Je garde mes yeux fixés droit devant moi. Je réfléchis au chemin que je vais prendre pour engager mes pas dans une direction sûre.
+J'aime la sagesse et je donne tout ce que je possede pour acquerir l'intelligence, je ne les oublierai plus.
+Je ne renierai jamais l'éducation que j'ai reçu; c'est la base de ma vie : j'y reste attaché. 
 
-## <b>CHAPITRE V</b>
+Par dessus tout je prendrais garde à ce que je penses au fond de moi-même : ma vie en dépend. 
+Je garde mes yeux fixés droit devant moi. 
+Je réfléchis au chemin que je vais prendre pour engager mes pas dans une direction sûre.
+
+## CHAPITRE V : <i>Amour de Jeunesse</i> 💌
 
 > {{ msg }}
+
+Je prête une oreille attentive aux paroles pleines de sagesse et d'intelligence.
 
 <span v-if="sexeFm">
-Je prête une oreille attentive aux paroles pleines de sagesse et d'intelligence. Je me tiens éloigné du mari d'autruie; je ne le laisse même pas s'approcher du seuil de ma maison. Pour le mien je suis comme une source d'eau pure. Il bois à cette source ! Je ne laisse pas mon eau couler dans les rues et se disperser sur les places publiques. Qu'elle soit pour lui seul ! Je ne la partage pas avec des étrangers. Il est remplie de bonheur, trouve sa joie dans la campagne de sa jeunesse. Il me trouve aimable, et gracieuse comme la gazelle. Mon corps le comble toujours de plaisir. Je m'abandonne sans cesse à son amour. Pourquoi l'abandonnerais-je à une autre ? Pourquoi chercherais-je le plaisir auprès d'un étranger ?
+ Je me tiens éloigné du mari d'autruie; je ne le laisse même pas s'approcher du seuil de ma maison. <br/> 
+ Pour mon époux je suis comme une source d'eau pure. <br/>
+ Il bois à cette source ! Je ne laisse pas mon eau couler dans les rues et se disperser sur les places publiques. Qu'elle soit pour lui seul ! <br/>
+ Je ne la partage pas avec des étrangers. 
+ Il est remplie de bonheur et trouve sa joie dans la femme de sa jeunesse. <br/>
+ Il me trouve aimable, et gracieuse comme la gazelle. <br/>
+ Mon corps le comble toujours de plaisir. Je m'abandonne sans cesse à son amour. <br/>
+ Pourquoi l'abandonnerais-je à une autre ? <br/>
+ Pourquoi chercherais-je le plaisir auprès d'un étranger ?
 </span>
 
 <span v-else="sexeFm">
-Je prête une oreille attentive aux paroles pleines de sagesse et d'intelligence. Je me tiens éloigné de la femme d'autruie; je ne m'approche même pas du seuil de sa maison. La mienne est comme une source d'eau pure. Je bois à cette source ! Je ne laisse pas son eau couler dans les rues et se disperser sur les places publiques. Qu'elle soit pour moi seul ! Je ne la partage pas avec des étrangers. Je la remplie de bonheur, je trouve ma joie dans la campagne de ma jeunesse. Ma femme est aimable, et gracieuse comme la gazelle. Que son corps me comble toujours de plaisir. Je m'abandonne sans cesse à son amour. Pourquoi m'abandonnerais-je à la femme d'un autre ? Pourquoi chercherais-je le plaisir auprès d'une étrangère ?
+Je me tiens éloigné de la femme d'autruie; je ne m'approche même pas du seuil de sa maison. <br/>
+La mienne est comme une source d'eau pure. <br/>
+Je bois à cette source ! Je ne laisse pas son eau couler dans les rues et se disperser sur les places publiques. Qu'elle soit pour moi seul ! <br/>
+Je ne la partage pas avec des étrangers. 
+Je la remplie de bonheur, je trouve ma joie dans la femme de ma jeunesse. <br/>
+Ma femme est aimable, et gracieuse comme la gazelle. <br/>
+Que son corps me comble toujours de plaisir. Je m'abandonne sans cesse à son amour. <br/>
+Pourquoi m'abandonnerais-je à la femme d'un autre ? <br/>
+Pourquoi chercherais-je le plaisir auprès d'une étrangère ?
 </span>
 
-## <b>CHAPITRE VI</b>
+## CHAPITRE VI : <i>Un bon conseil</i> 🐜
 
 > {{ msg }}
 
-Je ne m'accorde aucun repos et je ne ferme pas l'oeil avant de parvenir à me libérer d'une créance. J'observe la fourmie pour en tirer une leçon de sagesse. Je tiens compte des recommendadtions de mon père et de l'enseignement de ma mère.
+Je ne m'accorde aucun repos et je ne ferme pas l'oeil avant de parvenir à me libérer d'une créance. 
 
-## <b>CHAPITRE VII</b>
+J'observe la fourmie pour en tirer une leçon de sagesse. 
+
+Je tiens compte des recommendadtions de mon père et de l'enseignement de ma mère.
+
+## CHAPITRE VII : <i>Des alliés de choix</i> ✅
 
 > {{ msg }}
 
 La Sagesse est ma soeur, l'intelligence mon ami
 
-## <b>CHAPITRE VIII</b>
+## CHAPITRE VIII : <i>Ecouter la sagesse</i> 🧏
 
 > {{ msg }}
 
-J'apprends à avoir du bon sens et de l'esprit. Je recherche l'éducation plus que l'argent, la connaissance plus que l'or pur. Je déteste le mal, car je suis soumis au Seigneur. Je suis le conseil de la sagesse, je l'écoute et je la trouve.
+J'apprends à avoir du bon sens et de l'esprit. 
 
-## <b>CHAPITRE IX</b>
+Je recherche l'éducation plus que l'argent, la connaissance plus que l'or pur. 
 
-> {{ msg }}
+Je déteste le mal, car je suis soumis au Seigneur. 
 
-Je me nourris à la table de la sagesse et je bois le vin qu'elle a préparée. Je prends le chemin de l'intelligence. Je ne critique que les sages. Je reconnais l'autorité du Seigneur, comme le commencement de ma sagesse.
+Je suis le conseil de la sagesse, je l'écoute et je la trouve.
 
-## <b>CHAPITRE X</b>
-
-> {{ msg }}
-
-Je suis sage et je fait la joie de mes parents. Ma conduite est juste, elle me préserve de la mort. Le Seigneur ne me laisse pas avoir faim. Mes mains sont actives, elles me procurent la richesse. J'amasse mes provisions pendant l'été et j'attire sur moi le bonheur. On se souviendra de moi avec reconnaissance. J'accepte avec joie les directives. Je vis dans la sécurité, parceque je vis dans l'intégrité. Je reprends les autres avec franchise pour apporter la paix. Mes paroles sont sources de vie. Je ne tiens pas compte des offenses, par amour. Mes paroles sont intelligentes, on y reconnait la sagesse. J'amasse un trésor d'expérience et ma fortune me tient lieu de place forte. Mon travail me permet de vivre. j'avance dans la vie, parceque je tiens compte des avertissements. Je suis prudent, c'est pourquoi je tiens ma langue. Mes parole valent l'argent le plus pur, et profitent à beaucoups. C'est la bénédiction du Seigneur qui me donne la prospérité. La pratique de la sagesse est un jeu pour moi. Mes souhaient me sont accordés, alors je tiens toujours debout, même après l'ouragan. Je vivrais longtemps, puisque je reconnais l'autorité du Seigneur. Mon espérance me procure la joie. Les plans du Seigneur me protège comme une forteresse, rien ne me fera jamais tomber. Des paroles sages sortent de ma bouche; le tout avec bienveillance.
-
-## <b>CHAPITRE XI</b>
+## CHAPITRE IX : <i>L'invitation de la sagesse</i> 🍷
 
 > {{ msg }}
 
-J'utilise toujours des poids exact. Je suis modeste, intègre et juste. Mon intégrité me met sur le droit chemin. Ma justice me préserve la vie de l'inquiétude, grâce à mon expérience. J'apporte la prospérité autour de moi. Mon intelligence me pousse à me taire. Je suis digne de confiance; je garde tout pour moi.Ma bonté me fait du bien. La justice que je propage m'assure une récompense certaine. Ma justice me préserve la vie. Le Seigneur m'approuve pour mon intégrité. J'échapperais à la punition à cause de ma justice. Mon unique désir est de bien agir. Je donne kargement c'est pourquoi ma fortune s'accroie. Je suis généreu c'est pourquoi, je suis comblé de bien en retour, je donne à boire c'est pourquoi je suis désaltéré. Je suis approuvé parceque j'agis bien. Je prospère comme un arbre verdoyant. J'oriente bien ma maison. Mes actes sont comme un arbre de vie, ils gagnent les coeurs, j'ai ma récompense sur la terre.
+Je me nourris à la table de la sagesse et je bois le vin qu'elle a préparée. 
 
-## <b>CHAPITRE XII</b>
+Je prends le chemin de l'intelligence. Je ne critique que les sages. 
 
-> {{ msg }}
+Je reconnais l'autorité du Seigneur, comme le commencement de ma sagesse.
 
-J'aime la correction, parce que j'aime la science. J'obtiens la faveur de l'Eternel à cause de ma bonté et ma racine ne sera pas ébranlée. Ma femme est vertueuse, elle est ma couronne. Mes pensées ne sont qu'équité et ma bouche une délivrance. Ma maison reste debout. Je suis estimé à cause de mon intelligence, je reste humble. Je prends soin de mon bétail et je cultive mon champ, c'est pourquoi je suis rassasié de pain. Ma racine donne du fruit et je me tire de la détresse. Je suis rassasié de bien par le fruit de ma bouche te je reçois selon l'œuvre de mes mains. Je suis sage c'est pourquoi j'écoute les conseils. Je suis prudent, c'est pourquoi je me garde de montrer ma colère. Je proclame la justice en disant la vérité, je suis affermie pour toujours. J'apporte la guérison par des paroles pleine de sagesse. Je conseil la paix, cela me procure de la joie. Aucun malheur ne m'arrive à cause de ma justice. Je suis agréable à l'Eternel, parce que j'agis avec vérité. Je cache ma science par prudence. Ma main est diligente, c'est pourquoi elle domine. Je me réjouis en me nourrissant de bonnes paroles. Je montre à mes amis la bonne voie. L'activité est mon précieux trésor. La vie est dans mon sentier : un sentier de justice.
-
-## <b>CHAPITRE XIII</b>
+## CHAPITRE X : <i>Une conduite juste</i> 😇
 
 > {{ msg }}
 
-Je tiens compte des avertissements de mon père. Je récolterai le fruit de mes patroles, c'est pourquoi je surveil ma bouche, afin de mettre ma vie à l'abrie. je suis actif c'est pourquoi j'obtiens ce que je désire. Je suis juste et je déteste le mensonge. L'honnêteté me protège, puisque je me conduit bien. Je rayonne comme une lumière brillante. Je trouve plus sage d'accepter les conseils et d'acquerir ma richesse petit à petit. Mes désires comblés sont comme un arbre de vie. Je respecte les ordres, c'est pourquoi je suis récompensé. Mon enseignement est sages et source de vie. Mon bon sens fait mon charme. Je suis avisé, je réfléchis donc avant d'agir. Je rétablis les situation par ma fidélité quand j'en ai la responsabilité. Je tiens compte des critiques, c'est pourquoi je suis honoré. Je fréquente les sages pour gagner en sagesse. Le bonheur est la récompense de mon honnêteté. Je laisserai un héritage pour mes enfants; je n'hésiterai pas à les punir par amour. Nous mangerons à satiété.
+Je fait la joie de mes parents. 
+En effet, ma conduite est juste: elle me préserve de la mort. 
 
-## <b>CHAPITRE XIV</b>
+Le Seigneur ne me laissera pas avoir faim. 
+Mes mains sont actives, elles me procurent la richesse. 
+J'amasse mes provisions pendant l'été et j'attire sur moi le bonheur.
+
+On se souviendra de moi avec reconnaissance. 
+J'accepte avec joie les directives. 
+Je vis dans la sécurité, parce que je vis dans l'intégrité. 
+Je reprends les autres avec franchise pour apporter la paix. 
+Mes paroles sont sources de vie. 
+Je ne tiens pas compte des offenses, par amour. 
+Mes paroles sont intelligentes, on y reconnait la sagesse.
+
+J'amasse un trésor d'expérience et ma fortune me tient lieu de place forte. 
+Mon travail me permet de vivre. 
+J'avance dans la vie, parce que je tiens compte des avertissements. 
+Je suis prudent, c'est pourquoi je tiens ma langue. 
+Mes parole valent l'argent le plus pur, et profitent à beaucoups. 
+
+C'est la bénédiction du Seigneur qui me donne la prospérité. 
+La pratique de la sagesse est un jeu pour moi. 
+Mes souhaient me sont accordés, alors je me tiens toujours debout, même après l'ouragan. 
+Je vivrais longtemps, puisque je reconnais l'autorité du Seigneur.
+
+Mon espérance me procure la joie. 
+Les plans du Seigneur me protège comme une forteresse, rien ne me fera jamais tomber. 
+Des paroles sages sortent de ma bouche; le tout avec bienveillance.
+
+## CHAPITRE XI : <i>Une conduite juste</i> 👼
 
 > {{ msg }}
 
-<span v-if="sexeFm">
-Je suis sage, j'assure la solidité de notre foyer. Je mène une vie   droite par respect pour le Seigneur. Mes paroles sages assurent ma protection; je suis  un témoin digne de confiance. Je réfléchis, c'est pourquoi j'acquiers facilement du savoir faire. Je surveille ma conduite par prudence et je suis pleinne de bonne volontées. Ma maison est destinée à la prospérité; dans ma prudence je reghardes où je mets mes pieds, car j'ai peur du mal et je m'en détourne. Le savoir fait mon honneur. Je suis bonne avec les pauvres. Mes bonnes intentions me font rencontrées la bonté et la fidélité. Mon travail m'assure un salaire et la richesse est ma récompense. Par mon témoignage digne de foi, des vies sont sauvées. Je vis en toute sécurité, parceque je reconnais l'autorité du Seigneur. Par intéllignece, je reste calme et pour ma santé, je cultive la paix. Je porte secours aux indigents pour honorer  celui qui les a faits; je pratique la justice. Je suis apprécié pour ma compétence.
-</span>
+J'utilise toujours des poids exact.
+Je suis modeste, intègre et juste.
+Mon intégrité me met sur le droit chemin.
+Grâce à mon expérience et ma justice je préserve ma vie de l'inquiétude.
 
-<span v-else="sexeFm">
-Ma femme est sage, elle assure la solidité de notre foyer. Je mène une vie   droite par respect pour le Seigneur. Mes paroles sages assurent ma protection; je suis  un témoin digne de confiance. Je réfléchis, c'est pourquoi j'acquiers facilement du savoir faire. Je surveille ma conduite par prudence et je suis plein de bonne volontées. Ma maison est destinée à la prospérité; dans ma prudence je reghardes où je mets mes pieds, car j'ai peur du mal et je m'en détourne. Le savoir fait mon honneur. Je suis bon avec les pauvres. Mes bonnes intentions me font rencontrées la bonté et la fidélité. Mon travail m'assure un salaire et la richesse est ma récompense. Par mon témoignage digne de foi, des vies sont sauvées. Je vis en toute sécurité, parceque je reconnais l'autorité du Seigneur. Par intéllignece, je reste calme et pour ma santé, je cultive la paix. Je porte secours aux indigents pour honorer  celui qui les a faits; je pratique la justice. Je suis apprécié pour ma compétence.
-</span>
+J'apporte la prospérité autour de moi.
+Mon intelligence me pousse à me taire.
+Je suis digne de confiance; je garde tout pour moi.
+Ma bonté me fait du bien.
 
-## <b>CHAPITRE XV</b>
+La justice que je propage m'assure une récompense certaine.
+Ma justice me préserve la vie.
+Le Seigneur m'approuve pour mon intégrité.
+
+J'échapperais à la punition à cause de ma justice.
+Mon unique désir est de bien agir.
+Je donne largement c'est pourquoi ma fortune s'accroie.
+
+Je suis généreu c'est pourquoi, je suis comblé de bien en retour; je donne à boire c'est pourquoi je suis désaltéré. Je suis approuvé parce que j'agis bien.
+Je prospère comme un arbre verdoyant.
+J'oriente bien ma maison.
+
+Mes actes sont comme un arbre de vie, ils gagnent les coeurs, j'ai ma récompense sur la terre.
+
+## CHAPITRE XII : <i>Une conduite juste</i> 👑
 
 > {{ msg }}
 
-Je donne des réponses toujours aimable et mes paroles sont réconfortantes. Je suis avisé c'est pourquoi j'accepte la réprimende et cela me fait vivre dans l'abondance. Mes paroles diffuse le savoir. L'Eternel reçoit favorablement mes prière, Il connait mes pensées et Il m'aime parce que je pratique la justice. Je consulte les sages. Mon visage s'egaie à cause de la joie dans mon coeur ce bonheur me fait vivre dans une fête continuelle. Je l'ardent désir de m'instruire. Avec ce que je possède je vis soumis au Seigneur, je mange des plats modeste, mais préparé avec amour. J'apaise les disputes par ma patience et ma route est bien dégagée. Je suis raisonnable et cela fait la joie de mes parents. Les nombreux conseils que je reçois, assurent la réussite de mes projets. Je trouve agréable de savoir bien  répondre et trouver les mots juste au bon moment. Je suis la route qui monte vers la vie et le Seigneur protège mon terrain. Mes paroles sont inspirées par la bonté. Je jouirais d'une longue vie, parce que je ne me laisse pas acheter. Je réflechis avant de répondre. Je sais que l'Eternel écoute ma prière. Le regard bienveillant me donne de la joie et les bonnes nouvelles me revigorent. Je suis attentif à la critique salutaire, j'ai donc ma place parmis les sages; leurs réprimendes me font acquerir du caratère. Je reconnait l'autorité du Seigneur: je suis à son école. Je m'humilie avant d'acceder au honneur.
+J'aime la correction, parce que j'aime la science. 
+J'obtiens la faveur de l'Eternel à cause de ma bonté et ma racine ne sera pas ébranlée.
+<span v-if="sexeFm">Je suis une femme vertueuse: la couronne de mon époux.</span>
+<span v-else="sexeFm">Ma femme est vertueuse, elle est ma couronne.</span>
+Mes pensées ne sont qu'équité et ma bouche une délivrance. 
+Ma maison reste debout. 
+Je suis estimé à cause de mon intelligence, je reste humble. 
 
-## <b>CHAPITRE XVI</b>
+Je prends soin de mon bétail et je cultive mon champ, c'est pourquoi je suis rassasié de pain. 
+Ma racine donne du fruit et je me tire de la détresse. 
+Je suis rassasié de bien par le fruit de ma bouche te je reçois selon l'œuvre de mes mains. 
+
+Je suis sage c'est pourquoi j'écoute les conseils. 
+Je suis prudent, c'est pourquoi je me garde de montrer ma colère. 
+Je proclame la justice en disant la vérité, je suis affermie pour toujours. 
+J'apporte la guérison par des paroles pleine de sagesse. 
+
+Je conseil la paix, cela me procure de la joie. 
+Aucun malheur ne m'arrive à cause de ma justice. 
+Je suis agréable à l'Eternel, parce que j'agis avec vérité. 
+Je cache ma science par prudence. 
+
+Ma main est diligente, c'est pourquoi elle domine. 
+Je me réjouis en me nourrissant de bonnes paroles. 
+Je montre à mes amis la bonne voie. 
+L'activité est mon précieux trésor. 
+La vie est dans mon sentier : un sentier de justice.
+
+## CHAPITRE XIII : <i>Une conduite juste</i> 🧐
 
 > {{ msg }}
 
-Je forme des projets mais je laisse au Seigneur le dernier mot. Il examine le fond de mon coeur. J'expose mon activité au Seigneur et mes projets se réalisent. Par la bonté et la fidélité je répare mes torts: je respect le Seigneur. Il approuve ma conduite et pousse mes ennemis à se reconcilier avec moi. Je préfère un maigre salaire gagné honnêtement que de gros revenus tirés d'affaire louches. J'élabore des plans, le Seigneur en dirige la réalistaion. Je parle avec une autorité divine, pour ne pas me tromper dans mes jugements. Je laisse le Seigneur fixer la valeur des poids, pour avoir une balance juste. La pratique de la justice maintien mon pouvoir. j'aime qu'on me parle honnêtement et qu'on me dise la vérité. En toute sagesse, je fait tout pour apaiser la colère. Par le sourire sur mon visage je proclame la vie, ma bonté est comme une pluie rafraichissante.
+Je tiens compte des avertissements de mon père. 
+Je récolterai le fruit de mes paroles, c'est pourquoi je surveil ma bouche, afin de mettre ma vie à l'abrie. 
+Je suis actif c'est pourquoi j'obtiens ce que je désire. 
+Je suis juste et je déteste le mensonge. 
 
-Je préfère acquerir la sagesse que de l'or, l'intelligence que de l'argent. Je me détourne  du mal car surveiller ma conduite, c'est veiller sur ma vie. Je préfère vivre modestement avec des pauvres que partager un riche butin avec des orgueilleux. Je connais le bonheur, parce que je fais confiance au Seigneur. Mon esprit sage me rend intelligent. Mes paroles sont aimables c'est pourquoi elles sont convaincantes. Le bon sens me procure la vie. Je réflechis avant de parler, ce qui rend mes paroles encores plus convaincantes. Mes paroles aimables sont pareilles au miel qui est agréable au goût et bon pour la santé. Mes cheuveux blancs sont une parure qui me couronne pour avoir suivit les traces de la justice. Je suis un héros pour avoir vainc ma colère. Je préfère être maître de mon moi que d'être le maître d'une ville. C'est le Seigneur qui détermine mon avenir.
+L'honnêteté me protège, puisque je me conduit bien. 
+Je rayonne comme une lumière brillante. 
+Je trouve plus sage d'accepter les conseils et d'acquerir ma richesse petit à petit. 
+
+Mes désires comblés sont comme un arbre de vie. 
+Je respecte les ordres, c'est pourquoi je suis récompensé. 
+Mon enseignement est sages et source de vie. 
+Mon bon sens fait mon charme. 
+
+Je suis avisé, je réfléchis donc avant d'agir. 
+Je rétablis les situation par ma fidélité quand j'en ai la responsabilité. 
+Je tiens compte des critiques, c'est pourquoi je suis honoré. 
+Je fréquente les sages pour gagner en sagesse. 
+
+Le bonheur est la récompense de mon honnêteté. 
+Je n'hésiterai pas à punir mes enfants par amour; afin de leur laisser un héritage.
+Nous mangerons à satiété.
+
+## CHAPITRE XIV : <i>Une conduite juste</i> 📌
+
+> {{ msg }}
+
+<span v-if="sexeFm">Je suis sage, j'assure la solidité de mon foyer.</span>
+<span v-else="sexeFm">Ma femme est sage, elle assure la solidité de notre foyer.</span>
+Je mène une vie droite par respect pour le Seigneur. <br/>
+Mes paroles sages assurent ma protection; je suis  un témoin digne de confiance. 
+Je réfléchis, c'est pourquoi j'acquiers facilement du savoir faire. 
+<span v-if="sexeFm">Je surveille ma conduite par prudence et je suis pleinne de bonne volontées.</span><br/> 
+<span v-else="sexeFm">Je surveille ma conduite par prudence et je suis plein de bonne volontées.</span><br/> 
+Ma maison est destinée à la prospérité; dans ma prudence je reguardes où je mets mes pieds, car j'ai peur du mal et je m'en détourne. 
+Le savoir fait mon honneur. <br/>
+<span v-if="sexeFm">Je suis bonne avec les pauvres.</span><br/> 
+<span v-else="sexeFm">Je suis bon avec les pauvres.</span><br/> 
+Mes bonnes intentions me font rencontrées la bonté et la fidélité. 
+Mon travail m'assure un salaire et la richesse est ma récompense. 
+Par mon témoignage digne de foi, des vies sont sauvées. 
+Je vis en toute sécurité, parce que je reconnais l'autorité du Seigneur. 
+Par intéllignece, je reste calme et pour ma santé, je cultive la paix. <br/>
+Je porte secours aux indigents pour honorer  celui qui les a faits; je pratique la justice. 
+Je suis apprécié pour ma compétence.
+
+## CHAPITRE XV : <i>A l'école du Seigneur</i> 🗝
+
+> {{ msg }}
+
+Je donne des réponses toujours aimable et mes paroles sont réconfortantes. 
+Je suis avisé c'est pourquoi j'accepte la réprimende et cela me fait vivre dans l'abondance. 
+Mes paroles diffuse le savoir. 
+
+L'Eternel reçoit favorablement mes prière, Il connait mes pensées et Il m'aime parce que je pratique la justice. 
+Je consulte les sages. 
+Mon visage s'egaie à cause de la joie dans mon coeur ce bonheur me fait vivre dans une fête continuelle. 
+J'ai l'ardent désir de m'instruire. 
+
+Avec ce que je possède je vis soumis au Seigneur, je mange des plats modeste, mais préparé avec amour. 
+J'apaise les disputes par ma patience et ma route est bien dégagée. 
+Je suis raisonnable et cela fait la joie de mes parents. 
+
+Les nombreux conseils que je reçois, assurent la réussite de mes projets. 
+Je trouve agréable de savoir bien  répondre et trouver les mots juste au bon moment. 
+Je suis la route qui monte vers la vie et le Seigneur protège mon terrain. 
+Mes paroles sont inspirées par la bonté. 
+
+Je jouirais d'une longue vie, parce que je ne me laisse pas acheter. 
+Je réflechis avant de répondre. 
+Je sais que l'Eternel écoute ma prière. 
+
+Le regard bienveillant me donne de la joie et les bonnes nouvelles me revigorent. 
+Je suis attentif à la critique salutaire, j'ai donc ma place parmis les sages; leurs réprimendes me font acquerir du caratère.
+
+Je reconnait l'autorité du Seigneur: je suis à son école. 
+Je m'humilie avant d'acceder au honneur.
+
+## CHAPITRE XVI : <i>Le Seigneur au quotidient</i> 🥇
+
+> {{ msg }}
+
+Je forme des projets mais je laisse au Seigneur le dernier mot. 
+Il examine le fond de mon coeur. 
+J'expose mon activité au Seigneur et mes projets se réalisent. 
+
+Par la bonté et la fidélité je répare mes torts: je respecte le Seigneur. 
+Il approuve ma conduite et pousse mes ennemis à se reconcilier avec moi. 
+
+Je préfère un maigre salaire gagné honnêtement que de gros revenus tirés d'affaire louches. 
+J'élabore des plans, le Seigneur en dirige la réalistaion. 
+
+Je parle avec une autorité divine, pour ne pas me tromper dans mes jugements. 
+Je laisse le Seigneur fixer la valeur des poids, pour avoir une balance juste. 
+La pratique de la justice maintien mon autorité. 
+
+J'aime qu'on me parle honnêtement et qu'on me dise la vérité. 
+En toute sagesse, je fait tout pour apaiser la colère. 
+Par le sourire sur mon visage je proclame la vie, ma bonté est comme une pluie rafraichissante.
+
+Je préfère acquerir la sagesse que de l'or, l'intelligence que de l'argent. 
+Je me détourne  du mal car surveiller ma conduite, c'est veiller sur ma vie. 
+
+Je préfère vivre modestement avec des pauvres que partager un riche butin avec des orgueilleux. 
+Je connais le bonheur, parce que je fais confiance au Seigneur. 
+
+Mon esprit sage me rend intelligent. 
+Mes paroles sont aimables c'est pourquoi elles sont convaincantes. 
+
+Le bon sens me procure la vie. 
+Je réflechis avant de parler, ce qui rend mes paroles encores plus convaincantes. 
+
+Mes paroles aimables sont pareilles au miel qui est agréable au goût et bon pour la santé. 
+Mes cheuveux blancs sont une parure qui me couronne pour avoir suivit les traces de la justice. 
+
+Je suis un héros pour avoir vaincu ma colère. 
+Je préfère être maître de mon moi que de dominer les autres. 
+C'est le Seigneur qui détermine mon avenir.
 
 ## <b>CHAPITRE XVII</b>
 
@@ -142,7 +358,7 @@ Je préfère avoir un seul ami véritable : il est plus loyal qu'un frère.
 
 > {{ msg }}
 
-Je préfère être pauvre et intègre, que de parler pour tromper. Je canalise mon enthousiasme et privilégie l'expérience sans me hâter. Je refuse de tourner ma colère contre l'Eternel pour mes erreurs de conduite. J'acquiert du sens parceque j'aime mon âme, je garde l'intelligence pour trouver le bonheur. Je suis lent à la colère et je me plaits à oublier les offenses. J'ai hérité de mes pères une maison et des richesses, mais ma femme est un don de l'Eternel. Je respecte les règles pour protéger ma vie. Lorsque je donne aux pauvres, je prête à Dieu. Je corrigerai mes enfants tant que je le pourrais, sans jamais m'emporter. A force d'écouter les conseils et de me laisser éduquer: je finirai par devenir sage. J'élaborerai des plans en me rappelant que seul la décision du Seigneur se réalisera. Ce qu'on attend de moi c'est la bonté. Je préfère être pauvre que menteur. Respecter le Seigneur me conduit à la vie, une vie dans l'abondance et à l'abri du malheur. La critique est pour moi source de leçon. Je me tourne vers les leçons de l'expérience en écoutant les avertissements.
+Je préfère être pauvre et intègre, que de parler pour tromper. Je canalise mon enthousiasme et privilégie l'expérience sans me hâter. Je refuse de tourner ma colère contre l'Eternel pour mes erreurs de conduite. J'acquiert du sens parce que j'aime mon âme, je garde l'intelligence pour trouver le bonheur. Je suis lent à la colère et je me plaits à oublier les offenses. J'ai hérité de mes pères une maison et des richesses, mais ma femme est un don de l'Eternel. Je respecte les règles pour protéger ma vie. Lorsque je donne aux pauvres, je prête à Dieu. Je corrigerai mes enfants tant que je le pourrais, sans jamais m'emporter. A force d'écouter les conseils et de me laisser éduquer: je finirai par devenir sage. J'élaborerai des plans en me rappelant que seul la décision du Seigneur se réalisera. Ce qu'on attend de moi c'est la bonté. Je préfère être pauvre que menteur. Respecter le Seigneur me conduit à la vie, une vie dans l'abondance et à l'abri du malheur. La critique est pour moi source de leçon. Je me tourne vers les leçons de l'expérience en écoutant les avertissements.
 
 ## <b>CHAPITRE XX</b>
 
@@ -204,13 +420,13 @@ Comment me vanterai-je de ce que je ferai demain ? Je ne sais même pas ce qui a
 
 > {{ msg }}
 
-J'ai autant d'assurance qu'un jeune lion. La stabilité reigne autour de moi, à cause de mon intelligence et de mon instruction. J'observe la loi, c'est pourquoi je ne peut pas féliciter un méchant. Je comprends très bien tout ce qui est juste parceque je cherche à obéir au Seigneur. J'ai préféré la pauvreté à la richesse, tant que cela me garde dans l'intégrité; j'obéis à la loi, car le bonheur est réservé au hommes intègre. mon triomphe est une grande joie pour tous. Je ne cacherai pas mes transgressions, Mais je les avouerai et je les délaisserrai afin d'obtenir miséricorde. Je trouve mon salut dans la voie de l'intégrité. J'ai beaucoup de pain parceque je cultive mon champs. Je serai comblé de bonheur pour ma fidélité. Je me confie dans le Seigneur c'est pourquoi je connaîtrai la prospérité. Je ne me fie pas au impulsions de mon coeur, je me conduit avec sagesse pour échapper au danger. Je ne manquerai jamais de rien, je suis généreux. 
+J'ai autant d'assurance qu'un jeune lion. La stabilité reigne autour de moi, à cause de mon intelligence et de mon instruction. J'observe la loi, c'est pourquoi je ne peut pas féliciter un méchant. Je comprends très bien tout ce qui est juste parce que je cherche à obéir au Seigneur. J'ai préféré la pauvreté à la richesse, tant que cela me garde dans l'intégrité; j'obéis à la loi, car le bonheur est réservé au hommes intègre. mon triomphe est une grande joie pour tous. Je ne cacherai pas mes transgressions, Mais je les avouerai et je les délaisserrai afin d'obtenir miséricorde. Je trouve mon salut dans la voie de l'intégrité. J'ai beaucoup de pain parce que je cultive mon champs. Je serai comblé de bonheur pour ma fidélité. Je me confie dans le Seigneur c'est pourquoi je connaîtrai la prospérité. Je ne me fie pas au impulsions de mon coeur, je me conduit avec sagesse pour échapper au danger. Je ne manquerai jamais de rien, je suis généreux. 
 
 ## <b>CHAPITRE XXIX</b>
 
 > {{ msg }}
 
-J'aime la sagesse, c'est ce qui donne de la joie à mon père. Je déborde de joie. Je sais reconnaître le droit des pauvres et apaiser la colère autour de moi. Je recherche la compagnie des gens intègres. Je retient et calme ma mauvaise humeur. Je sais qu'il faut traiter même les plus petits avec équité. Je suis attentif aux punitions et aux réprimendes car ils sont source de sagesse. Je corrigerai mes enfants, afin de ne point avoir d'inquiétude à leur sujet : il feront les délices de mon coeur. Je suis heureux parceque j'obéis à la loi de Dieu. J'ai compris que pour accéder aux honneurs, il faut avoir l'esprit humble. Je sais qu'il est dangereux d'avoir peur des autres, mais je me confie au Seigneur, c'est ma sécurité. Je suis contre la malhonnêteté.
+J'aime la sagesse, c'est ce qui donne de la joie à mon père. Je déborde de joie. Je sais reconnaître le droit des pauvres et apaiser la colère autour de moi. Je recherche la compagnie des gens intègres. Je retient et calme ma mauvaise humeur. Je sais qu'il faut traiter même les plus petits avec équité. Je suis attentif aux punitions et aux réprimendes car ils sont source de sagesse. Je corrigerai mes enfants, afin de ne point avoir d'inquiétude à leur sujet : il feront les délices de mon coeur. Je suis heureux parce que j'obéis à la loi de Dieu. J'ai compris que pour accéder aux honneurs, il faut avoir l'esprit humble. Je sais qu'il est dangereux d'avoir peur des autres, mais je me confie au Seigneur, c'est ma sécurité. Je suis contre la malhonnêteté.
 
 ## <b>CHAPITRE XXX</b>
 
@@ -227,7 +443,7 @@ Quand j'écoute les conseils que Lemouel, roi de Massa, a reçu de sa mère, voi
 <span v-if="sexeFm">
 Je ne gâcherais pas les forces d'un homme, pour le perdre. Cela ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. Je suis une femme vaillante : quel joie pour celui qui m'a épousé ! J'ai plus de valeur que les perles précieuses. Notre maison ne manque de rien; je ne lui cause jamais de tort, mais je lui donne du bonheur tous les jours de sa vie. Comment ?</br>
 Eh bien je me procure le nécessaire pour travailler de ma main avec ardeur. Comme un navire marchands, je ramène de loin notre nourriture. Je me lève avant le jour, pour préparer le repas et organiser les tâches du quotidien. Je prends le temps de bien réfléchir avant de dépenser l'argent que je gagne. Je travail avec plein d'énergie et ne laisse jamais mes bras inactifs. Je travail même la nuit et on pourra constater que mes affaire marche bien. Je tend la main aux malheureux et je suis généreuse envers les pauvres. Je ne craind pas le froid, peu importe la neige, car J'ai revêtue toute ma famille d'un double vêtement. Je me fabrique des tapis et porte des habits raffinés. Je tisse des habits que je vends et livre des ceintures aux marchands. Ma force et ma dignité sont ma parrure; J'envisage l'avenir avec le sourire. Je m'exprime avec sagesse et je sais donner des conseils avec bonté. Je veille à la bonne marche de la maison et je ne nourrit aucune paresse.
-Je suis honoré par mon mari, qui siège au conseil de la ville. Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montre leur valeur, mai toi, tu les surpasses toutes."</i> Au delà de mon charme et de ma beauté, c'est parceque je suis soumise au Seigneur, que je suis digne de louanges.
+Je suis honoré par mon mari, qui siège au conseil de la ville. Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montre leur valeur, mai toi, tu les surpasses toutes."</i> Au delà de mon charme et de ma beauté, c'est parce que je suis soumise au Seigneur, que je suis digne de louanges.
 </span>
 <span v-else="sexeFm">
 Je ne gâcherais pas mes forces avec les femmes, celles qui perdent les rois. Il ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. Ma Femme est vaillante : quel joie de l'avoir trouvé ! Elle a plus de valeur que les perles précieuses. J'ai confiance en elle et notre maison ne manque de rien. Elle ne me cause jamais de tort, mais elle me donne du bonheur tous les jours de ma vie. Que fait-elle ?</br>
