@@ -1,14 +1,15 @@
 <script>
   new Vue({
     el: '#data',
-    data: { msg: message, sexeFm: userSexe }
+    data: { msg: message, sexeFm: userSexe, name: name }
   })
 </script>
 <div id="data">
 
-# Des déclarations inspirées des Proverbes
+# Des déclarations inspirées des Proverbes, pour {{name}} {{userSexe?'👸':'🤴'}}
 
 ?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
+Alors n'hésite pas {{name}}, à en faire des déclarations personnelles et pourquoi pas des sujets de prière.
 
 <img src='ben-white-LJQEDQAmAnI-unsplash.jpg'/>
 
@@ -338,71 +339,256 @@ Je suis un héros pour avoir vaincu ma colère.
 Je préfère être maître de mon moi que de dominer les autres. 
 C'est le Seigneur qui détermine mon avenir.
 
-## <b>CHAPITRE XVII</b>
-
-Je préfère manger en paix un crouton sec, que de participer à un banquet dans une maison où l'on se dispute. Je suis un serviteur compétent, c'est pourquoi je suis traité comme un fils. C'est le Seigneur qui éprouve ma valeur. Je ne prête pas l'oreille aux paroles malveillantes et je n'écoute pas les mauvaises langues. Je ne me mauque pas des pauvres et je refuse de rire du malheur d'autruie. Je suis fier de mes enfants et petits-enfants et je sais qu'ils sont aussi fiers de moi. J'ai un langage distingué sans aucun mensonge. J'oublis les torts pour favoriser l'amitité. Les reproches ont plus d'influences sur moi que cent coups de bâton. Je ne veux pas nuire aux autres et j'évite de croiser le chemin des sots. Je ne rend pas le mal pour le bien. Je ne commence pas la dispute, je préfère m'arrêté avant que la querelle ne se déchaine. Je ne vais pas déclarer innocent un coupable et condamner un innocent. A quoi peut servir l'argent dans ma main ? A me procurer la sagesse ! Je montre mon affection en toute circonstances et je partage les difficultés des autres. Je ne veux pas me rendre responsable de la dette d'autruie. Je n'aime pas la querelle et je refuse de faire l'important. Mon esprit n'est pas rusé, ni ma langue mauvaise. Celui qui m'a donné naissance n'a pas de chagrin, il est remplie de joie. La bonne humeur favorise ma guérison. Je n'accepterai pas les cadeaux offert pour dévier le cours de la justice. Je ne perds jamais de vu ce qui est sage. Je ne donne aucun chagrin à mon père et aucun regret à celle qui m'a mis-au-monde. Je ne trouve mauvais d'infliger une amende à un  innoncent et injuste de punir quelqu'un de respectable. J'évite de trop parler et je prends le temps de réfléchir: je me tais.
-
-## <b>CHAPITRE XVIII</b>
+## CHAPITRE XVII : <i>Qui suis-je ?</i> ⚖
 
 > {{ msg }}
 
-Je refuse de m'irriter quand on me propose de l'aide et de m'isoler des autres. Ce qui m'intéresse, ce n'est pas de faire étalage de mon opinion, mais de comprendre. Je refuse la méchanceté et l'affront. Mes paroles peuvent être profondes comme l'océan, vivifiante comme un torrent et source de sagesse. Je trouve que cela n'est pas bien de favoriser le coupable et de faire justice à l'innocent. Je m'abstiens des paroles pouvant entrainer des disputes et provoquer des bagarres; les paroles qui prennent au piège et causent les ruines. Je m'abstiens de toute calomnie. Je ne gâche ni ne néglige mon travail. Le Seigneur est ma forteresse, j'accourt près de Lui et je suis en sécurité. Ma fortune me tient lieu de citadelle, dans mon coffre-fort elle me protege comme un rempart élevé. J'accèderai aux honneurs à cause de mon humilité. Je ne réponds qu'après avoir écouté. Je ne laisserai pas ma volonté défaillir, car elle me soutient dans la maladie. Je réfléchis pour acquerir des connaissances, je cherches à entendre des paroles instructives. J'aime offrir des cadeaux, cela ouvre bien des portes et permet de rencontrer des gens haut placé. Je ne donnerai pas raison au premier à plaider une cause; j'attendrai le moment où son adversaire le contredira. Pour faire cesser les querelles et les débats :  je jeterai les dés. Loin de moi la dispute et l'offense. J'assure ma nourriture par mes paroles: ce que je dis me permet de gagner ma vie. Je fais attention à ce que je dis, car mes paroles sont source de vie ou de mort. J'ai trouver une femme ! Quel bonheur, c'est une grâce, obtenue de l'Eternel. Je veux parler avec assurance et répondre avec douceur.
-<span v-if="sexeFm">
-Je préfère avoir une seule amie véritable : elle est plus loyal qu'une soeur.
-</span>
-<span v-else="sexeFm">
-Je préfère avoir un seul ami véritable : il est plus loyal qu'un frère.
-</span>
+Je préfère manger en paix un crouton sec, que de participer à un banquet dans une maison où l'on se dispute. 
+Je suis un serviteur compétent, c'est pourquoi je suis traité comme un fils. 
+C'est le Seigneur qui éprouve ma valeur. 
 
-## <b>CHAPITRE XIX</b>
+Je ne prête pas l'oreille aux paroles malveillantes et je n'écoute pas les mauvaises langues. 
+Je ne me mauque pas des pauvres et je refuse de rire du malheur d'autruie. 
+Je suis fier de mes enfants et petits-enfants et je sais qu'ils sont aussi fiers de moi. 
+J'ai un langage distingué sans aucun mensonge. 
+J'oublis les torts pour favoriser l'amitité. 
 
-> {{ msg }}
+Les reproches ont plus d'influences sur moi que cent coups de bâton. 
+Je ne veux pas nuire aux autres et j'évite de croiser le chemin des sots. 
+Je ne rend pas le mal pour le bien. 
+Je ne commence pas la dispute, je préfère m'arrêté avant que la querelle ne se déchaine. 
+Je ne vais pas déclarer innocent un coupable et condamner un innocent. 
 
-Je préfère être pauvre et intègre, que de parler pour tromper. Je canalise mon enthousiasme et privilégie l'expérience sans me hâter. Je refuse de tourner ma colère contre l'Eternel pour mes erreurs de conduite. J'acquiert du sens parce que j'aime mon âme, je garde l'intelligence pour trouver le bonheur. Je suis lent à la colère et je me plaits à oublier les offenses. J'ai hérité de mes pères une maison et des richesses, mais ma femme est un don de l'Eternel. Je respecte les règles pour protéger ma vie. Lorsque je donne aux pauvres, je prête à Dieu. Je corrigerai mes enfants tant que je le pourrais, sans jamais m'emporter. A force d'écouter les conseils et de me laisser éduquer: je finirai par devenir sage. J'élaborerai des plans en me rappelant que seul la décision du Seigneur se réalisera. Ce qu'on attend de moi c'est la bonté. Je préfère être pauvre que menteur. Respecter le Seigneur me conduit à la vie, une vie dans l'abondance et à l'abri du malheur. La critique est pour moi source de leçon. Je me tourne vers les leçons de l'expérience en écoutant les avertissements.
+A quoi peut servir l'argent dans ma main ? 
+A me procurer la sagesse ! 
 
-## <b>CHAPITRE XX</b>
+Je montre mon affection en toute circonstances et je partage les difficultés des autres. 
+Je ne veux pas me rendre responsable de la dette d'autruie. 
+Je n'aime pas la querelle et je refuse de faire l'important. 
 
-> {{ msg }}
+Mon esprit n'est pas rusé, ni ma langue mauvaise. 
+Celui qui m'a donné naissance n'a pas de chagrin, il est remplie de joie. 
+Ma bonne humeur favorise ma guérison. 
 
-Par sagesse j'évite de m'enivrer de vin. Il est pour moi honorable de me retirer d'une dispute. Je sais puiser dans les pensées cachées des autres, comme dans des eaux profondes. Je mène une vie intègre, quel bonheur pour mes enfants après moi! L'Eternel m'a donné des yeux pour voir et des oreilles pour entendre. Je n'aime pas trop le sommeil, je préfère garder mes yeux ouvert pour manger à ma faim. Les paroles instructives sont pour moi un trésors bien plus précieux que l'or et les perles. Lorsque je fais des projets, je prends conseil, et je ne me lance pas dans une bataille sans une stratégie bien conçue. Celui qui parle à tort et à travers trahit aussi les secrets, j'évite donc les gens qui bavardent trop. Je ne dis pas : « Je me vengerai ! » Je préfère me confier en l'Eternel et je sais qu'Il me délivrera. C'est le Seigneur qui dirige mes pas, comment un humain pourrait-il comprendre mes voies ? Je trouve dangereux de faire des promesses à l'Eternel avant de réfléchir. Ma conscience est la lampe que le Seigneur m'a donné: elle éclaire les profondeur de mon être. 
+Je n'accepterai pas les cadeaux offert pour dévier le cours de la justice. 
+Je ne perds jamais de vu ce qui est sage. 
+Je ne donne aucun chagrin à mon père et aucun regret à celle qui m'a mis-au-monde. 
 
-## <b>CHAPITRE XXI</b>
+Je ne trouve mauvais d'infliger une amende à un  innoncent et injuste de punir quelqu'un de respectable. 
+J'évite de trop parler et je prends le temps de réfléchir: je me tais.
 
-> {{ msg }}
-
-Mon esprit est comme un ruisseau que la main du Seigneur dirige là où il veut. Je lui laisse le soin d'examiner le fond de mon coeur, même quand je penses agir avec droiture. Je préfère biensûr avoir une conduite juste et équitable devant le Seigneur plutôt que de multiplier les sacrifices. Je m'applique à élaborer des plans, pour rendre profitable mes projets, tout en gardant ma conduite droite. Je préfère partager le coin d'un toit ou un pays désert, que de vivre dans  la maison d'une femme querelleuse et irritable. J'acquiert de l'expérience par l'enseignement que je reçois. Je ne ferai pas sourde oreille aux cris des indigents. Pour calmer la colère ou même la violente fureur de quelqu'un, je suis prêt à donner un cadeau ou un présent en toute discretion. L'application du droit fait ma joie. On trouve de précieuses réserve et des trésors dans ma maison. Je suis traité avec justice et respect pour mon honnêteté et ma bonté. Je prend d'assaut la ville fortement défendue et j'abas les fortifications dans lesquelles elle mettait sa confiance. Pour m'éviter des tourments, je surveille ce qui sort de ma bouche. Je donne sans rien retenir. je sais écouter c'est pourquoi on m'accorde le droit de parler. je veille sur ma conduite car devant l'Eternel, il n'y a ni sagesse, ni intelligence, ni conseil qui tienne. J'équiperai mon cheval pour le jour du combat, mais je sais que c'est le Seigneur qui donne la victoire.
-
-## <b>CHAPITRE XXII</b>
-
-> {{ msg }}
-
-Je considère qu'avoir une bonne réputation est mieux que de grandes richesses: l'estime des autres m'est préférable à l'or et l'argent. Je n'oublierai pas ce qu'il y a de commun entre le riche et le pauvre : c'est l'Eternel qui les a fait. Quand je vois venir le malheur, je me mets à l'abris. Je serais récompensé de richesse, d'honneur et d'une longue vie, pour mon humilité et ma soumission au Seigneur. Je tiens à ma vie s'est pouquoi je me tiens éloigné des hommes corrompus. Je donnerai de bonnes habitudes à mes enfants dès leur plus jeune âge :  ils les conserveront jusque dans la vieillesse. Je regarde les autres avec bonté et je partage mon pain avec ceux qui en manquent: c'est une bénédiction. Afin de faire cesser les querelles et les insultes, je m'éloignerai du moqueur. J'ai des intentions pures et mes paroles sont aimables, c'est ainsi que j'ai gangé l'amitié du roi. Je crois que l'Eternel veille sur la connaissance, c'est pourquoi il démasque les propos des gens de mauvaise foi. Je comprends que la corrcetion est utile pour guérir l'enfant, de la tendance à aimer ce qui est déraisonnable.
-
-Je prête l'oreille et écoute les paroles des sages ; j'ouvre mon esprit à l'expérience qui m'es transmise. Je suis heureux de les garder en mémoire et d'être toujours prêt à les citer. Je désire placer ma confiance dans le Seigneur, c'est pourquoi je veux les connaître dès aujourd'hui. J'ai reçu pour moi une trentaine de conseils et de réflexions. Je veux des informations réellement dignes de confiance. Si quelqu'un m'envoie chercher la vérité, je pourrais ainsi lui communiquer des informations sûres.
-
-Je ne profiterai pas de la faiblesse d'un indigent pour le dépouiller et je n'accablerai pas au tribunal quelqu'un qui est sans défense. Je ne me lierai pas à quelqu'un d'irritable et je fuirai la compagnie de celui qui est violent. Je ne me porterais pas garant d'un emprunt ou d'une dette, si  je n'ai pas de quoi payer. Je ne déplacerai pas la limite ancienne, posée par mes pères. Je serai habile dans mon travail, afin d'offrir mes services aux rois.
-
-## <b>CHAPITRE XXIII</b>
+## CHAPITRE XVIII : <i>La grâce de Dieu</i> 🔆
 
 > {{ msg }}
 
-Quand je suis à table avec un personnage important, je fais attention à ce qui est devant moi; en réfrènant mon appétit, sans convoiter ses bons plats. Je ne me fatigue pas à courir après la richesse: je cesse même d'y penser. Je ne convoiterai, ni ne partagerai le repas d'un homme mal intentionné. Je ne parlerai pas aux oreilles de l'homme stupide: il ne reconnaîtra pas la valeur de mes paroles. Je respecterai la limite ancienne et le terrain des orphelins. J'ouvre mon coeur à l'instruction et mes oreilles aux paroles de la connaissance. Je n'hésiterai pas à punir mon enfant, pour le préserver du séjour des morts.
+Je refuse de m'irriter quand on me propose de l'aide et de m'isoler des autres. 
+Ce qui m'intéresse, ce n'est pas de faire étalage de mon opinion, mais de comprendre. 
+Je refuse la méchanceté et l'affront. 
 
-Je suis dans la joie quand mon coeur acquiert de la sage et quand je parle avec droiture. Je n'envie pas les pécheurs, mais je suis constamment soumis au Seigneur. C'est alors que j'ai un avenir et mon espérance ne sera pas déçue. Je dirige mon coeur dans le droit chemin. Je ne fréquente pas les ivrognes et les gourmands. J'écouterai mon père car je lui dois ma vie; je ne mépriserai pas ma mère lorsqu'elle aura vieilli. j'apprends à être véridique, sage, discipliné et intelligent; ce sont pour moi des qualités importantes. Je donnerai à mon père et ma mère le bonheur et la joie d'avoir donné la vie à un enfant sage et intelligent. Seigneur je te fais confiance et je prend plaisir à suivre ton exemple.
+Mes paroles peuvent être profondes comme l'océan, vivifiante comme un torrent et source de sagesse. 
+Je trouve que cela n'est pas bien de favoriser le coupable et de faire justice à l'innocent. 
+Je m'abstiens des paroles pouvant entrainer des disputes et provoquer des bagarres; les paroles qui prennent au piège et causent les ruines. 
+Je m'abstiens de toute calomnie. 
 
-## <b>CHAPITRE XXIV</b>
+Je ne gâche ni ne néglige mon travail. 
+Le Seigneur est ma forteresse, j'accourt près de Lui et je suis en sécurité. 
+Ma fortune me tient lieu de citadelle, dans mon coffre-fort elle me protege comme un rempart élevé. 
+J'accèderai aux honneurs à cause de mon humilité. 
+
+Je ne réponds qu'après avoir écouté. 
+Je ne laisserai pas ma volonté défaillir, car elle me soutient dans la maladie. 
+Je réfléchis pour acquerir des connaissances, je cherches à entendre des paroles instructives. 
+J'aime offrir des cadeaux, cela ouvre bien des portes et permet de rencontrer des gens haut placé. 
+
+Je ne donnerai pas raison au premier à plaider une cause; j'attends le moment où son adversaire le contredira. 
+Pour faire cesser les querelles et les débats :  je jeterai les dés. 
+Loin de moi la dispute et l'offense. 
+
+J'assure ma nourriture par mes paroles: ce que je dis me permet de gagner ma vie. 
+Je fais attention à ce que je dis, car mes paroles peuvent être source de vie ou de mort. 
+<span v-if="sexeFm">J'ai trouver une époux ! Quel bonheur, c'est une grâce, obtenue de l'Eternel.</span>
+<span v-else="sexeFm">J'ai trouver une femme ! Quel bonheur, c'est une grâce, obtenue de l'Eternel.</span> 
+
+Je veux parler avec assurance et répondre avec douceur.
+<span v-if="sexeFm">Je préfère avoir une seule amie véritable : elle est plus loyal qu'une soeur.</span>
+<span v-else="sexeFm">Je préfère avoir un seul ami véritable : il est plus loyal qu'un frère.</span>
+
+## CHAPITRE XIX : <i>Un don de l'Eternel</i> 🎁
 
 > {{ msg }}
 
-Je n'envie pas ce qui font le mal, d'ailleurs je ne recherche pas leur compagnie. J'ai besoin de sagesse pour construire ma maison, de l'intelligence pour la rendre habitable et du savoir-faire pour remplir les pièces de toutes sortes d'objets agréables et précieux. La sagesse constitue ma force et l'expérience augmente mon pouvoir. En effet, c'est par une bonne stratégie que je gagnerai la bataille, c'est pourquoi je m'entoure d'un grand nombre  de conseillers. Je m'efforcerai de sauver ceux qui sont condamné injustement. Je mange du miel, car il fait du bien et son goût est agréable. Et je me rapelle que la sagesse aussi est bonne pour la vie. Si j'arrive à la pratiquer, j'aurai un avenir et de l'espérance. Je ne m'approprierai jamais par la ruse les biens d'autruie; car je sais que même si je tombe sept fois, je me relèverai. Je ne pourrais donc pas me réjouir de la chute de mon prochain, ni même de mon ennemi. Ceux qui font le mal n'ont pas d'avenir c'est pourquoi je ne peux pas les envier. Je respecte le Seigneur et le roi. Je ne m'associe pas à ceux qui veulent tout changer, qui sait quel malheur l'Eternel et le roi peuvent leur causer ?
+Je préfère être pauvre et intègre, que de parler pour tromper. 
+Je canalise mon enthousiasme et privilégie l'expérience sans me hâter. 
+Je refuse de tourner ma colère contre l'Eternel pour mes erreurs de conduite. 
+J'acquiert du sens parce que j'aime mon âme, je garde l'intelligence pour trouver le bonheur. 
 
-Je penses qu'il n'est pas bien de juger avec parti pris; mais une réponses donné avec franchise est une vraie preuve d'amitié. Je n'envisage de bâtir une maison qu'après avoir terminé mes travaux audehors et préparé mes champs pour la récolte. J'estime qu'il ne faut pas accuser un voisin sans motif, même pour se venger.
+Je suis lent à la colère et je me plaits à oublier les offenses. 
+<span v-if="sexeFm">J'ai hérité de mes pères une maison et des richesses, mais mon mariage est un don de l'Eternel. </span>
+<span v-else="sexeFm">J'ai hérité de mes pères une maison et des richesses, mais ma femme est un don de l'Eternel. </span>
+Je respecte les règles pour protéger ma vie. 
 
-## <b>CHAPITRE XXV</b>
+Lorsque je donne aux pauvres, je prête à Dieu. 
+Je corrigerai mes enfants tant que je le pourrais, sans jamais m'emporter. 
+A force d'écouter les conseils et de me laisser éduquer: je finirai par devenir sage. 
+J'élaborerai des plans en me rappelant que seul la décision du Seigneur se réalisera. 
+
+Ce qu'on attend de moi c'est la bonté. 
+Je préfère être pauvre que menteur. 
+Respecter le Seigneur me conduit à la vie, une vie dans l'abondance et à l'abri du malheur.
+
+La critique est pour moi source de leçon. 
+Je me tourne vers les leçons de l'expérience en écoutant les avertissements.
+
+## CHAPITRE XX : <i>La lampe de l'âme</i> 🪔
 
 > {{ msg }}
 
-J'honore Dieu parcequ'Il tient les choses cachées. J'honore les rois parce qu'ils examinent le fonds des choses. Je ne connais pas jusqu'où s'élève le ciel, ni jusqu'où va la profondeur de la terre. Je ne connais pas d'avantage les pensées des rois. Je ne me mettrai pas en avant devant le roi, je préfère qu'il le fasse de sa bouche. Ce que j'ai vu, je ne me présserai pas de le raconter sans aucune preuve. Quand  j'ai un différend avec mon prochain, je le règle avec lui, sans révéler les confidences d'un autre. Je sais qu'une parole juste dite au bon moment est précieuse. Je reçois d'une oreille attentive les avertissements donnés par une parsonne sage. Je porte du réconfort à mon Maître à cause de ma fidélité. Avec beaucoups de patience je persuade le dirigeant, tout comme avec des paroles douces je viens à bout des résistances les plus solides. Quand je trouves du miel, je n'en mange pas trop, pour ne pas être dégouté au point de le vomir. Je ne rend pas trop visite à mon ami, de peur qu'il ne se lasse de moi. Je donnerai à manger et à boire à mes ennemis. Je préfère vivre au coin d'un toit que de partager la maison d'une femme querelleuse.
+Par sagesse j'évite de m'enivrer de vin. 
+Il est pour moi honorable de me retirer d'une dispute. 
+Je sais puiser dans les pensées cachées des autres, comme dans des eaux profondes. 
+
+Je mène une vie intègre, quel bonheur pour mes enfants après moi! 
+L'Eternel m'a donné des yeux pour voir et des oreilles pour entendre. 
+
+Je n'aime pas trop le sommeil, je préfère garder mes yeux ouvert pour manger à ma faim. 
+Les paroles instructives sont pour moi un trésors bien plus précieux que l'or et les perles. 
+Lorsque je fais des projets, je prends conseil, et je ne me lance pas dans une bataille sans une stratégie bien conçue. 
+
+Celui qui parle à tort et à travers trahit aussi les secrets, j'évite donc les gens qui bavardent trop. 
+Je ne dis pas : « Je me vengerai ! » 
+Je préfère me confier en l'Eternel et je sais qu'Il me délivrera. 
+
+C'est le Seigneur qui dirige mes pas, comment un humain pourrait-il comprendre mes voies ? 
+Je trouve dangereux de faire des promesses à l'Eternel avant de réfléchir. 
+Ma conscience est la lampe que le Seigneur m'a donné: elle éclaire les profondeur de mon être. 
+
+## CHAPITRE XXI : <i>C'est le Seigneur qui donne la victoire</i> 🏆
+
+> {{ msg }}
+
+Mon esprit est comme un ruisseau que la main du Seigneur dirige là où il veut. 
+Je lui laisse le soin d'examiner le fond de mon coeur, même quand je penses agir avec droiture. 
+Je préfère biensûr avoir une conduite juste et équitable devant le Seigneur plutôt que de multiplier les sacrifices. 
+
+Je m'applique à élaborer des plans, pour rendre profitable mes projets, tout en gardant ma conduite droite. 
+<span v-if="sexeFm">Je préfère partager le coin d'un toit ou un pays désert, que de vivre dans la querelle et l'irritation. </span>
+<span v-else="sexeFm">Je préfère partager le coin d'un toit ou un pays désert, que de vivre dans  la maison d'une femme querelleuse et irritable. </span>
+J'acquiert de l'expérience par l'enseignement que je reçois. Je ne ferai pas sourde oreille aux cris des indigents. 
+Pour calmer la colère ou même la violente fureur de quelqu'un, je suis prêt à donner un cadeau ou un présent en toute discretion. 
+
+L'application du droit fait ma joie. 
+On trouve de précieuses réserve et des trésors dans ma maison. 
+Je suis traité avec justice et respect pour mon honnêteté et ma bonté. 
+Je prend d'assaut la ville fortement défendue et j'abas les fortifications dans lesquelles elle mettait sa confiance.
+
+Pour m'éviter des tourments, je surveille ce qui sort de ma bouche. 
+Je donne sans rien retenir. je sais écouter c'est pourquoi on m'accorde le droit de parler. 
+Je veille sur ma conduite car devant l'Eternel, il n'y a ni sagesse, ni intelligence, ni conseil qui tienne. 
+J'équiperai mon cheval pour le jour du combat, mais je sais que c'est le Seigneur qui donne la victoire.
+
+## CHAPITRE XXII : <i>Quelques limites</i> 🚧
+
+> {{ msg }}
+
+Je considère qu'avoir une bonne réputation est mieux que de grandes richesses: l'estime des autres m'est préférable à l'or et l'argent. Je n'oublierai pas ce qu'il y a de commun entre le riche et le pauvre : c'est l'Eternel qui les a fait. 
+Quand je vois venir le malheur, je me mets à l'abris. 
+Je serais récompensé de richesse, d'honneur et d'une longue vie, pour mon humilité et ma soumission au Seigneur. 
+
+Je tiens à ma vie s'est pouquoi je me tiens éloigné des hommes corrompus. 
+Je donnerai de bonnes habitudes à mes enfants dès leur plus jeune âge :  ils les conserveront jusque dans la vieillesse. 
+Je regarde les autres avec bonté et je partage mon pain avec ceux qui en manquent: c'est une bénédiction. 
+
+Afin de faire cesser les querelles et les insultes, je m'éloignerai du moqueur. 
+J'ai des intentions pures et mes paroles sont aimables, c'est ainsi que j'ai gagné l'amitié du roi. 
+Je crois que l'Eternel veille sur la connaissance, c'est pourquoi il démasque les propos des gens de mauvaise foi. 
+Je comprends que la corrcetion est utile pour guérir l'enfant, de la tendance à aimer ce qui est déraisonnable.
+
+Je prête l'oreille et écoute les paroles des sages ; j'ouvre mon esprit à l'expérience qui m'est transmise. 
+Je suis heureux de les garder en mémoire et d'être toujours prêt à les citer. 
+Je désire placer ma confiance dans le Seigneur, c'est pourquoi je veux les connaître dès aujourd'hui. 
+J'ai reçu pour moi une trentaine de conseils et de réflexions. 
+Je veux des informations réellement dignes de confiance. 
+Si quelqu'un m'envoie chercher la vérité, je pourrais ainsi lui communiquer des informations sûres.
+
+Je ne profite pas de la faiblesse d'un indigent pour le dépouiller et je n'accable pas au tribunal quelqu'un qui est sans défense. 
+Je ne me lie pas à quelqu'un d'irritable et je fuis la compagnie de celui qui est violent. 
+Je ne me porte pas garant d'un emprunt ou d'une dette, si  je n'ai pas de quoi payer. 
+Je refuse déplacer la limite ancienne, posée par mes pères. 
+Je suis habile dans mon travail, c'est pourquoi j'offre mes services aux rois.
+
+## CHAPITRE XXIII : <i>Seigneur je te fais confiance</i> 🎯
+
+> {{ msg }}
+
+Quand je suis à table avec un personnage important, je fais attention à ce qui est devant moi; en réfrènant mon appétit, sans convoiter les bons plats. 
+Je ne me fatigue pas à courir après la richesse: je cesse même d'y penser. 
+Je ne convoiterai, ni ne partagerai le repas d'un homme mal intentionné. 
+
+Je ne parlerai pas aux oreilles de l'homme stupide: il ne reconnaîtra pas la valeur de mes paroles. 
+Je respecterai la limite ancienne et le terrain des orphelins. 
+J'ouvre mon coeur à l'instruction et mes oreilles aux paroles de la connaissance. 
+Je n'hésiterai pas à punir mon enfant, pour le préserver du séjour des morts.
+
+Je suis dans la joie quand mon coeur acquiert de la sage et quand je parle avec droiture. 
+Je n'envie pas les pécheurs, mais je suis constamment soumis au Seigneur. 
+C'est alors que j'ai un avenir et mon espérance ne sera pas déçue. 
+
+Je dirige mon coeur dans le droit chemin. 
+Je ne fréquente pas les ivrognes et les gourmands. 
+
+J'écouterai mon père car je lui dois ma vie; je ne mépriserai pas ma mère lorsqu'elle aura vieilli. 
+J'apprends à être véridique, sage, discipliné et intelligent; ce sont pour moi des qualités importantes. 
+Je donnerai à mon père et ma mère le bonheur et la joie d'avoir donné la vie à un enfant sage et intelligent. 
+Seigneur je te fais confiance et je prend plaisir à suivre ton exemple.
+
+## CHAPITRE XXIV : <i>Respecter le Seigneur</i> 🙇
+
+> {{ msg }}
+
+Je n'envie pas ce qui font le mal, d'ailleurs je ne recherche pas leur compagnie. 
+J'ai besoin de sagesse pour construire ma maison, de l'intelligence pour la rendre habitable et du savoir-faire pour remplir les pièces de toutes sortes d'objets agréables et précieux. 
+
+La sagesse constitue ma force et l'expérience augmente mon pouvoir. 
+En effet, c'est par une bonne stratégie que je gagnerai la bataille, c'est pourquoi je m'entoure d'un grand nombre  de conseillers. 
+Je m'efforcerai de sauver ceux qui sont condamné injustement. 
+
+Je mange du miel, car il fait du bien et son goût est agréable. 
+Et je me rapelle que la sagesse aussi est bonne pour la vie. 
+Si j'arrive à la pratiquer, j'aurai un avenir et de l'espérance. 
+
+Je ne m'approprierai jamais par la ruse les biens d'autruie; car je sais que même si je tombe sept fois, je me relèverai. 
+Je ne pourrais donc pas me réjouir de la chute de mon prochain, ni même de mon ennemi. 
+Ceux qui font le mal n'ont pas d'avenir c'est pourquoi je ne peux pas les envier. 
+
+Je respecte le Seigneur et le roi. 
+Je ne m'associe pas à ceux qui veulent tout changer, qui sait quel malheur l'Eternel et le roi peuvent leur causer ?
+
+Je penses qu'il n'est pas bien de juger avec parti pris; mais une réponses donné avec franchise est une vraie preuve d'amitié. 
+Je n'envisage de bâtir une maison qu'après avoir terminé mes travaux au dehors et préparé mes champs pour la récolte. 
+J'estime qu'il ne faut pas accuser un voisin sans motif, même pour se venger.
+
+## CHAPITRE XXV : <i>Attentif et patient</i> ⛄
+
+> {{ msg }}
+
+J'honore Dieu parcequ'Il tient les choses cachées. 
+J'honore les rois parce qu'ils examinent le fonds des choses. 
+Je ne connais pas jusqu'où s'élève le ciel, ni jusqu'où va la profondeur de la terre. 
+Je ne connais pas d'avantage les pensées des rois. 
+Je ne me mettrai pas en avant devant le roi, je préfère qu'il le fasse de sa bouche. 
+Ce que j'ai vu, je ne me présserai pas de le raconter sans aucune preuve. 
+
+Quand  j'ai un différend avec mon prochain, je le règle avec lui, sans révéler les confidences d'un autre. 
+Je sais qu'une parole juste dite au bon moment est précieuse. 
+Je reçois d'une oreille attentive les avertissements donnés par une personne sage. 
+Je porte du réconfort à mon Maître à cause de ma fidélité. 
+
+Avec beaucoups de patience je persuade le dirigeant, tout comme avec des paroles douces je viens à bout des résistances les plus solides. 
+Quand je trouves du miel, je n'en mange pas trop, pour ne pas être dégouté au point de le vomir. 
+Je ne rend pas trop visite à mon ami, de peur qu'il ne se lasse de moi. 
+Je donnerai à manger et à boire à mes ennemis. 
+<span v-if="sexeFm">Je préfère vivre au coin d'un toit que dans une maison pleine de querelles. </span>
+<span v-else="sexeFm">JJe préfère vivre au coin d'un toit que de partager la maison d'une femme querelleuse.</span>
 
 ## <b>CHAPITRE XXVI</b>
 
