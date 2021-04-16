@@ -15,7 +15,7 @@ Alors n'hésite pas {{name}}, à en faire des déclarations personnelles et pour
 
 ***
 
-## CHAPITRE I : <i>Un trésor dans les proverbes</i> 💎
+## CHAPITRE I : <i>Un trésor</i> 💎
 
 > {{ msg }}
 
@@ -122,7 +122,7 @@ Je prends le chemin de l'intelligence. Je ne critique que les sages.
 
 Je reconnais l'autorité du Seigneur, comme le commencement de ma sagesse.
 
-## CHAPITRE X : <i>Une conduite juste</i> 😇
+## CHAPITRE X : <i>Un enfant juste</i> 👼
 
 > {{ msg }}
 
@@ -156,7 +156,7 @@ Mon espérance me procure la joie.
 Les plans du Seigneur me protège comme une forteresse, rien ne me fera jamais tomber. 
 Des paroles sages sortent de ma bouche; le tout avec bienveillance.
 
-## CHAPITRE XI : <i>Une conduite juste</i> 👼
+## CHAPITRE XI : <i>{{userSexe?'Une Femme':'Un Homme'}} juste</i> 😇
 
 > {{ msg }}
 
@@ -184,7 +184,7 @@ J'oriente bien ma maison.
 
 Mes actes sont comme un arbre de vie, ils gagnent les coeurs, j'ai ma récompense sur la terre.
 
-## CHAPITRE XII : <i>Une conduite juste</i> 👑
+## CHAPITRE XII : <i>La conduite du juste</i> 👑
 
 > {{ msg }}
 
@@ -216,7 +216,7 @@ Je montre à mes amis la bonne voie.
 L'activité est mon précieux trésor. 
 La vie est dans mon sentier : un sentier de justice.
 
-## CHAPITRE XIII : <i>Une conduite juste</i> 🧐
+## CHAPITRE XIII : <i>Être responsable</i> 🧐
 
 > {{ msg }}
 
@@ -243,7 +243,7 @@ Le bonheur est la récompense de mon honnêteté.
 Je n'hésiterai pas à punir mes enfants par amour; afin de leur laisser un héritage.
 Nous mangerons à satiété.
 
-## CHAPITRE XIV : <i>Une conduite juste</i> 📌
+## CHAPITRE XIV : <i>Une conduite appréciée</i> 📌
 
 > {{ msg }}
 
@@ -541,7 +541,7 @@ J'apprends à être véridique, sage, discipliné et intelligent; ce sont pour m
 Je donnerai à mon père et ma mère le bonheur et la joie d'avoir donné la vie à un enfant sage et intelligent. 
 Seigneur je te fais confiance et je prend plaisir à suivre ton exemple.
 
-## CHAPITRE XXIV : <i>Respecter le Seigneur</i> 🙇
+## CHAPITRE XXIV : <i>Respecter le Seigneur</i> {{userSexe?'🙇‍♀️':'🙇‍♂️'}}
 
 > {{ msg }}
 
@@ -590,51 +590,137 @@ Je donnerai à manger et à boire à mes ennemis.
 <span v-if="sexeFm">Je préfère vivre au coin d'un toit que dans une maison pleine de querelles. </span>
 <span v-else="sexeFm">JJe préfère vivre au coin d'un toit que de partager la maison d'une femme querelleuse.</span>
 
-## <b>CHAPITRE XXVI</b>
+## CHAPITRE XXVI : <i>Prendre du recul</i> 🍃
 
 > {{ msg }}
 
-Comme le moineau et l'hirondelle qui volettent sans se poser, une malédiction injustifé ne m'atteindra pas. Je ne réponds pas au sot en l'imitant, pour ne pas devenir comme lui; mais je lui réponds comme il le mérite pour qu'il ne s'imagine pas être sage. Je préfère éviter de me mêler d'une dispute qui ne me concerne pas.
+Comme le moineau et l'hirondelle qui volettent sans se poser, une malédiction injustifé ne peut pas m'atteindre. 
+Je ne réponds pas au sot en l'imitant, pour ne pas devenir comme lui; 
+mais je lui réponds comme il le mérite pour qu'il ne s'imagine pas être sage. 
+Je préfère éviter de me mêler d'une dispute qui ne me concerne pas.
 
-## <b>CHAPITRE XXVII</b>
-
-> {{ msg }}
-
-Comment me vanterai-je de ce que je ferai demain ? Je ne sais même pas ce qui arrivera aujourd'hui. Je ne me permet pas de chanter mes louanges, je laisserai ce soin aux autres. Je préfère reprendre ouvertement, que de me taire par amitié. Je n'abandonne pas mes amis, ni ceux de mon père; dans la difficulté : un voisin près de moi vaut mieux qu'un parent qui se trouve loin. Mon coeur est rempli de joie devant une conduite sage. Par prudence, quand je vois venir un malheur je me mets à l'abri. Je m'affine au contact de mon prochain, tout comme le fer aiguise le fer. Je soigne le figuier et prends soin de mon maître, j'en tirerai du fruit et des honneurs. Je trouve chez les autres le reflet de mes propres sentiments. Je suis attentif à mon travail, ainsi qu'à l'état de chacun de mes projets.
-
-## <b>CHAPITRE XXVIII</b>
+## CHAPITRE XXVII : <i>Ce qui nous entoure</i> 🏞
 
 > {{ msg }}
 
-J'ai autant d'assurance qu'un jeune lion. La stabilité reigne autour de moi, à cause de mon intelligence et de mon instruction. J'observe la loi, c'est pourquoi je ne peut pas féliciter un méchant. Je comprends très bien tout ce qui est juste parce que je cherche à obéir au Seigneur. J'ai préféré la pauvreté à la richesse, tant que cela me garde dans l'intégrité; j'obéis à la loi, car le bonheur est réservé au hommes intègre. mon triomphe est une grande joie pour tous. Je ne cacherai pas mes transgressions, Mais je les avouerai et je les délaisserrai afin d'obtenir miséricorde. Je trouve mon salut dans la voie de l'intégrité. J'ai beaucoup de pain parce que je cultive mon champs. Je serai comblé de bonheur pour ma fidélité. Je me confie dans le Seigneur c'est pourquoi je connaîtrai la prospérité. Je ne me fie pas au impulsions de mon coeur, je me conduit avec sagesse pour échapper au danger. Je ne manquerai jamais de rien, je suis généreux. 
+Comment me vanterai-je de ce que je ferai demain ? 
+Je ne sais même pas ce qui arrivera aujourd'hui. 
+Je ne me permet pas de chanter mes louanges, je laisse ce soin aux autres. 
 
-## <b>CHAPITRE XXIX</b>
+Je préfère reprendre ouvertement, que de me taire par amitié. 
+Je n'abandonne pas mes amis, ni ceux de mon père; dans la difficulté : un voisin près de moi vaut mieux qu'un parent qui se trouve loin. Mon coeur est rempli de joie devant une conduite sage. 
+Par prudence, quand je vois venir un malheur je me mets à l'abri. 
+
+Je m'affine au contact de mon prochain, tout comme le fer aiguise le fer. 
+Je soigne le figuier et prends soin de mon maître, j'en tirerai du fruit et des honneurs. 
+Je trouve chez les autres le reflet de mes propres sentiments. 
+Je suis attentif à mon travail, ainsi qu'à l'état de chacun de mes projets.
+
+## CHAPITRE XXVIII : <i>Une source stable</i> ⚓
 
 > {{ msg }}
 
-J'aime la sagesse, c'est ce qui donne de la joie à mon père. Je déborde de joie. Je sais reconnaître le droit des pauvres et apaiser la colère autour de moi. Je recherche la compagnie des gens intègres. Je retient et calme ma mauvaise humeur. Je sais qu'il faut traiter même les plus petits avec équité. Je suis attentif aux punitions et aux réprimendes car ils sont source de sagesse. Je corrigerai mes enfants, afin de ne point avoir d'inquiétude à leur sujet : il feront les délices de mon coeur. Je suis heureux parce que j'obéis à la loi de Dieu. J'ai compris que pour accéder aux honneurs, il faut avoir l'esprit humble. Je sais qu'il est dangereux d'avoir peur des autres, mais je me confie au Seigneur, c'est ma sécurité. Je suis contre la malhonnêteté.
+J'ai autant d'assurance qu'un jeune lion. 
+La stabilité reigne autour de moi, à cause de mon intelligence et de mon instruction. 
+J'observe la loi, c'est pourquoi je ne peut pas féliciter un méchant. 
+Je comprends très bien tout ce qui est juste parce que je cherche à obéir au Seigneur. 
 
-## <b>CHAPITRE XXX</b>
+J'ai préféré la pauvreté à la richesse, tant que cela me garde dans l'intégrité.
+J'obéis à la loi, en effet le bonheur est réservé au hommes intègre. 
+mon triomphe est une grande joie pour tous. 
+
+Je ne cacherai pas mes transgressions, Mais je les avouerai et je les délaisserrai afin d'obtenir miséricorde. 
+Je trouve mon salut dans la voie de l'intégrité. 
+J'ai beaucoup de pain parce que je cultive mon champs. 
+Je serai comblé de bonheur pour ma fidélité. 
+
+Je me confie dans le Seigneur c'est pourquoi je connaîtrai la prospérité. 
+Je ne me fie pas au impulsions de mon coeur, je me conduit avec sagesse pour échapper au danger. 
+Je ne manquerai jamais de rien, je suis généreux. 
+
+## CHAPITRE XXIX : <i>Source de joie</i> 🎊
 
 > {{ msg }}
 
-Je reconnais que toutes les promesses de Dieu sont dignes de confiance. Il est mon bouclier, celui qui me défend. Je n'ajoute rien à ses paroles. Je demande deux choses, et je sais qu'Il ne me les refusera pas avant que je meure : me garder de dire des paroles fausses ou mensongères, me donner ni pauvreté ni richesse ; mais m'accorder ce qui m'est nécessaire pour vivre, car dans l'abondance, je pourrais le renier et dire : « Qui est l'Eternel ? » Ou bien, pressé par la misère, je pourrais me mettre à voler et déshonorer ainsi mon Dieu.
+J'aime la sagesse, c'est ce qui donne de la joie à mon père. 
+Je déborde de joie. 
+Je sais reconnaître le droit des pauvres et apaiser la colère autour de moi. 
+Je recherche la compagnie des gens intègres. 
 
-## <b>CHAPITRE XXXI</b>
+Je retient et calme ma mauvaise humeur. 
+Je sais qu'il faut traiter même les plus petits avec équité. 
+Je suis attentif aux punitions et aux réprimendes car ils sont source de sagesse. 
+Je corrigerai mes enfants, afin de ne point avoir d'inquiétude à leur sujet : il feront les délices de mon coeur. 
+
+Je suis heureux parce que j'obéis à la loi de Dieu. 
+J'ai compris que pour accéder aux honneurs, il faut avoir l'esprit humble. 
+Je sais qu'il est dangereux d'avoir peur des autres, mais je me confie au Seigneur, c'est ma sécurité. 
+Je suis contre la malhonnêteté.
+
+## CHAPITRE XXX : <i>Rien à y ajouter</i> 🧫
+
+> {{ msg }}
+
+Je reconnais que toutes les promesses de Dieu sont dignes de confiance. 
+Il est mon bouclier, celui qui me défend. 
+Je n'ajoute rien à ses paroles. 
+
+Je demande deux choses, et je sais qu'Il ne me les refusera pas avant que je meure : me garder de dire des paroles fausses ou mensongères, me donner ni pauvreté ni richesse ; mais m'accorder ce qui m'est nécessaire pour vivre, car dans l'abondance, je pourrais le renier et dire : « Qui est l'Eternel ? » Ou bien, pressé par la misère, je pourrais me mettre à voler et déshonorer ainsi mon Dieu.
+
+## CHAPITRE XXXI : <i>Conseil à {{userSexe?'une reine':'un roi'}}</i> {{userSexe?'👸':'🤴'}}
 
 > {{ msg }}
 
 Quand j'écoute les conseils que Lemouel, roi de Massa, a reçu de sa mère, voici ce que j'en tire comme leçons :
 
 <span v-if="sexeFm">
-Je ne gâcherais pas les forces d'un homme, pour le perdre. Cela ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. Je suis une femme vaillante : quel joie pour celui qui m'a épousé ! J'ai plus de valeur que les perles précieuses. Notre maison ne manque de rien; je ne lui cause jamais de tort, mais je lui donne du bonheur tous les jours de sa vie. Comment ?</br>
-Eh bien je me procure le nécessaire pour travailler de ma main avec ardeur. Comme un navire marchands, je ramène de loin notre nourriture. Je me lève avant le jour, pour préparer le repas et organiser les tâches du quotidien. Je prends le temps de bien réfléchir avant de dépenser l'argent que je gagne. Je travail avec plein d'énergie et ne laisse jamais mes bras inactifs. Je travail même la nuit et on pourra constater que mes affaire marche bien. Je tend la main aux malheureux et je suis généreuse envers les pauvres. Je ne craind pas le froid, peu importe la neige, car J'ai revêtue toute ma famille d'un double vêtement. Je me fabrique des tapis et porte des habits raffinés. Je tisse des habits que je vends et livre des ceintures aux marchands. Ma force et ma dignité sont ma parrure; J'envisage l'avenir avec le sourire. Je m'exprime avec sagesse et je sais donner des conseils avec bonté. Je veille à la bonne marche de la maison et je ne nourrit aucune paresse.
-Je suis honoré par mon mari, qui siège au conseil de la ville. Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montre leur valeur, mai toi, tu les surpasses toutes."</i> Au delà de mon charme et de ma beauté, c'est parce que je suis soumise au Seigneur, que je suis digne de louanges.
+Je ne gâcherais pas les forces d'un homme, pour le perdre. 
+Cela ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. 
+Je suis une femme vaillante : quel joie pour celui qui m'a épousé ! 
+J'ai plus de valeur que les perles précieuses. 
+Notre maison ne manque de rien; je ne lui cause jamais de tort, mais je lui donne du bonheur tous les jours de sa vie. 
+Comment ?</br>
+Eh bien je me procure le nécessaire pour travailler de ma main avec ardeur. 
+Comme un navire marchands, je ramène de loin notre nourriture. 
+Je me lève avant le jour, pour préparer le repas et organiser les tâches du quotidien. 
+Je prends le temps de bien réfléchir avant de dépenser l'argent que je gagne. 
+Je travail avec plein d'énergie et ne laisse jamais mes bras inactifs. 
+Je travail même la nuit et on pourra constater que mes affaire marche bien. 
+Je tend la main aux malheureux et je suis généreuse envers les pauvres. 
+Je ne craind pas le froid, peu importe la neige, car J'ai revêtue toute ma famille d'un double vêtement. 
+Je me fabrique des tapis et porte des habits raffinés. 
+Je tisse des habits que je vends et livre des ceintures aux marchands. 
+Ma force et ma dignité sont ma parrure; J'envisage l'avenir avec le sourire. 
+Je m'exprime avec sagesse et je sais donner des conseils avec bonté. 
+Je veille à la bonne marche de la maison et je ne nourrit aucune paresse.
+Je suis honoré par mon mari, qui siège au conseil de la ville. 
+Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montre leur valeur, mai toi - dit-il - tu les surpasses toutes."</i> 
+Au delà de mon charme et de ma beauté, c'est parce que je suis soumise au Seigneur, que je suis digne de louanges.
 </span>
 <span v-else="sexeFm">
-Je ne gâcherais pas mes forces avec les femmes, celles qui perdent les rois. Il ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. Ma Femme est vaillante : quel joie de l'avoir trouvé ! Elle a plus de valeur que les perles précieuses. J'ai confiance en elle et notre maison ne manque de rien. Elle ne me cause jamais de tort, mais elle me donne du bonheur tous les jours de ma vie. Que fait-elle ?</br>
-Elle se procure le nécessaire pour travailler de sa main avec ardeur. Comme un navire marchands, elle amène de loin notre nourriture. Elle se lève avant le jour, prépare le repas et organise les tâches du quotidien. Elle prend le temps de bien réfléchir avant de dépenser l'argent qu'elle gagne. Elle travail avec plein d'énergie et ne laisse jamais ses bras inactifs. Elle travail même la nuit et on peu constater que c'est affaire marche bien. Elle tend la main aux malheureux et est généreuse envers les pauvres. Elle ne crains pas le froid, peu importe la neige, car elle a revêtue toute la famille d'un double vêtement. Elle se fabrique des tapis et porte des habits raffinés. Elle tisse des habits qu'elle vend et livre des ceintures aux marchands. Sa force et sa dignité sont sa parrure; elle envisage l'avenir avec le sourire. Elle s'exprime avec sagesse et sait donner des conseils avec bonté. Elle veille à la bonne marche de la maison et ne nourrit aucune paresse.
-Je suis honoré d'être son mari, moi qui siège au conseil de la ville. Nos enfants viennent la féliciter et moi aussi je fait son éloge : "<i>bien des filles montre leur valeur, mai elle, elle les surpasses toutes."</i> Au delà de son charme et de sa beauté, c'est parcequ'elle est soumise au Seigneur, qu'elle est digne de louanges.
+Je ne gâcherais pas mes forces avec les femmes, celles qui perdent les rois. 
+Il ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. 
+Ma Femme est vaillante : quel joie de l'avoir trouvé ! 
+Elle a plus de valeur que les perles précieuses. 
+J'ai confiance en elle et notre maison ne manque de rien. 
+Elle ne me cause jamais de tort, mais elle me donne du bonheur tous les jours de ma vie. 
+Que fait-elle ?</br>
+Elle se procure le nécessaire pour travailler de sa main avec ardeur. 
+Comme un navire marchands, elle amène de loin notre nourriture. 
+Elle se lève avant le jour, prépare le repas et organise les tâches du quotidien. 
+Elle prend le temps de bien réfléchir avant de dépenser l'argent qu'elle gagne. 
+Elle travail avec plein d'énergie et ne laisse jamais ses bras inactifs. 
+Elle travail même la nuit et on peu constater que c'est affaire marche bien. 
+Elle tend la main aux malheureux et est généreuse envers les pauvres. 
+Elle ne crains pas le froid, peu importe la neige, car elle a revêtue toute la famille d'un double vêtement. 
+Elle se fabrique des tapis et porte des habits raffinés. 
+Elle tisse des habits qu'elle vend et livre des ceintures aux marchands. 
+Sa force et sa dignité sont sa parrure; elle envisage l'avenir avec le sourire. 
+Elle s'exprime avec sagesse et sait donner des conseils avec bonté. 
+Elle veille à la bonne marche de la maison et ne nourrit aucune paresse.
+Je suis honoré d'être son mari, moi qui siège au conseil de la ville. 
+Nos enfants viennent la féliciter et moi aussi je fait son éloge : "<i>bien des filles montre leur valeur, mai elle, elle les surpasses toutes."</i> 
+Au delà de son charme et de sa beauté, c'est parcequ'elle est soumise au Seigneur, qu'elle est digne de louanges.
 </span>
 
 <img src='bible-102684_1920.jpg' style="margin-top:30px"/>
