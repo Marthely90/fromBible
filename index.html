@@ -24,7 +24,7 @@
   <script>
     var name, sexe
     name = prompt('Quel est votre prénom ?')
-    name = (name != 'null')?name:' ';
+    if(name==='null') name=''
     // do{name = prompt('Quel est votre prénom ?')}while(!name)
     do{sexe = prompt('Êtes-vous un Homme ou une Femme ?')}while(!sexe)
     const userSexe = sexe.trim().toUpperCase().charAt(0) === 'F'
