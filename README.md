@@ -6,7 +6,9 @@
 </script>
 <div id="data">
 
-# Des déclarations inspirées, pour {{name}} {{userSexe?'👸':'🤴'}}
+# Des déclarations inspirées par quelques livres bibliques
+
+> {{name}} {{userSexe?'👸':'🤴'}},
 
 ?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
 Alors n'hésite pas {{name}}, à en faire des déclarations personnelles et pourquoi pas des sujets de prière.
