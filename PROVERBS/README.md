@@ -691,7 +691,7 @@ Je m'exprime avec sagesse et je sais donner des conseils avec bonté.
 Je veille à la bonne marche de la maison et je ne nourris aucune paresse.
 Je suis honoré par mon mari, qui siège au conseil de la ville. 
 Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montrent leur valeur, mai toi - dit-il - tu les surpasses toutes."</i> 
-Au dela de mon charme et de ma beauté, c'est parce que je suis soumise au Seigneur, que je suis digne de louanges.
+Au-delà de mon charme et de ma beauté, c'est parce que je suis soumise au Seigneur, que je suis digne de louanges.
 </span>
 <span v-else="sexeFm">
 Je ne gâcherais pas mes forces avec les femmes, celles qui perdent les rois. 
@@ -716,7 +716,7 @@ Elle s'exprime avec sagesse et sait donner des conseils avec bonté.
 Elle veille à la bonne marche de la maison et ne nourrit aucune paresse.
 Je suis honoré d'être son mari, moi qui siège au conseil de la ville. 
 Nos enfants viennent la féliciter et moi aussi je fais son éloge : "<i>bien des filles montrent leur valeur, mai elle, elle les surpasse toutes."</i> 
-Au dela de son charme et de sa beauté, c'est parce qu’elle est soumise au Seigneur, qu'elle est digne de louanges.
+Au-delà de son charme et de sa beauté, c'est parce qu’elle est soumise au Seigneur, qu'elle est digne de louanges.
 </span>
 
 <img src='images/bible-102684_1920.jpg' style="margin-top:30px"/>
