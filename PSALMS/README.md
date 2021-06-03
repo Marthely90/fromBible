@@ -21,4 +21,4 @@ Je suis Heureux, pourquoi ?
 * Je ne m'assieds pas avec ceux qui se moquent de tout
 * J'aime l'enseignement du Seigneur :  <b> je médite jour et nuit </b>
 
-?>Je suis comme un arbre planté près d'un cours d'eau, produisant mes fruits quand ma saison arrive, et mon feuillage ne perd jamais sa fraicheur. Tout ce que je fais réussi. L'Éternel connaît ma conduite.
+?>Je suis comme un arbre planté près d'un cours d'eau, produisant mes fruits quand ma saison arrive, et mon feuillage ne perd jamais sa fraîcheur. Tout ce que je fais réussi. L'Éternel connaît ma conduite.
