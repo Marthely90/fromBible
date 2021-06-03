@@ -6,7 +6,7 @@
 </script>
 <div id="data">
 
-# Des déclarations inspirées par quelques livres bibliques
+# Des déclarations inspirées issues de quelques livres de la Bible
 
 > {{name}} {{userSexe?'👸':'🤴'}},
 
