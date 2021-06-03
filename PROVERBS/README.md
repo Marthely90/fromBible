@@ -6,6 +6,8 @@
 </script>
 <div id="data">
 
+  [ACCUEIL]()
+  
 <!-- # Des Proverbes, pour {{name}} {{userSexe?'👸':'🤴'}} -->
 
 # Un trésor 💎
