@@ -29,7 +29,7 @@ Je suis Heureux, pourquoi ?
 
 A Sion, la montagne qui m'est consacrée, dit l'Eternel, je t'ai consacré roi.
 Laissez-moi citer le décret du Seigneur; il m'a déclaré: 
-"C'est toi qui est mon fils. A partir d'aujourd'hui, c'est moi qui suis ton père."
+"C'est toi qui es mon fils. A partir d'aujourd'hui, c'est moi qui suis ton père."
 
 Si je Lui demande toutes les nations,
 Il me les donnera en propriété;
@@ -38,6 +38,6 @@ Je les maîtriserai avec une autorité de fer,
 Je pourrai les briser comme un pot d'argile.
 
 Je me montre intelligent: 
-Je me laisse avertir et je me soumet avec respect au Seigneur, reconnaissant son autorité, car sa colère peut s'enflammer tout à coup.
+Je me laisse avertir et je me soumets avec respect au Seigneur, reconnaissant son autorité, car sa colère peut s'enflammer tout à coup.
 
 ?>Quel bonheur de recourir à l'Eternel !
