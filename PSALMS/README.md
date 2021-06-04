@@ -40,4 +40,4 @@ Je pourrai les briser comme un pot d'argile.
 Je me montre intelligent: 
 Je me laisse avertir et je me soumet avec respect au Seigneur, reconnaissant son autorité, car sa colère peut s'enflammer tout à coup.
 
-Quel bonheur de recourir à l'Eternel !
+?>Quel bonheur de recourir à l'Eternel !
