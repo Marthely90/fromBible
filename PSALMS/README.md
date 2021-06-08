@@ -44,7 +44,7 @@ Je me laisse avertir et je me soumets avec respect au Seigneur, reconnaissant so
 
 ?>Quel bonheur de recourir à l'Eternel !
 
-# Entouré d'ennemis
+# Entouré d'ennemis 🌪
 
 > {{ msg }}
 
