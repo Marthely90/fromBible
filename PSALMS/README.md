@@ -30,11 +30,7 @@
 
 A Sion, la montagne qui m'est consacrée, dit l'Eternel, je t'ai consacré <span v-if="sexeFm">reine</span><span v-else="sexeFm">roi</span>.
 Laissez-moi citer le décret du Seigneur; il m'a déclaré: 
-<<<<<<< HEAD
 "C'est toi qui est <span v-if="sexeFm">ma fille</span><span v-else="sexeFm">mon fils</span>. A partir d'aujourd'hui, c'est moi qui suis ton père."
-=======
-"C'est toi qui es mon fils. A partir d'aujourd'hui, c'est moi qui suis ton père."
->>>>>>> b3468bd9fd7a78bbbae9bca3964661f6b2083a7a
 
 Si je Lui demande toutes les nations,
 Il me les donnera en propriété;
@@ -42,13 +38,28 @@ Mon domaine s'étendra jusqu'au bout du monde.
 Je les maîtriserai avec une autorité de fer,
 Je pourrai les briser comme un pot d'argile.
 
-<<<<<<< HEAD
 <span v-if="sexeFm">Je me montre intelligente :</span>
 <span v-else="sexeFm">Je me montre intelligent :</span>
 Je me laisse avertir et je me soumet avec respect au Seigneur, reconnaissant son autorité, car sa colère peut s'enflammer tout à coup.
-=======
-Je me montre intelligent: 
-Je me laisse avertir et je me soumets avec respect au Seigneur, reconnaissant son autorité, car sa colère peut s'enflammer tout à coup.
->>>>>>> b3468bd9fd7a78bbbae9bca3964661f6b2083a7a
 
 ?>Quel bonheur de recourir à l'Eternel !
+
+# Entouré d'ennemis
+
+> {{ msg }}
+
+Mes ennemis sont nombreux ! <br/>
+Des gens se dressent contre moi ! <br/>
+Ils disent à mon sujet : "Aucune chance que Dieu vienne à son secours !"
+
+Mais, le Seigneur est pour moi un bouclier protecteur,
+Il me rends ma dignité et ma fierté.
+
+Quand j'appelle le Seigneur à mon secours,
+Il me répond de la montagne qui lui est consacrée. <br/>
+Je me suis endormi pour la nuit;
+au reveil je reprends conscience que <b>le Seigneur est mon appui</b>.<br/>
+Je n'ai plus peur de ces milliers de gens qui m'assaillent de tous côtés.
+
+?>Le Seigneur frappe à la joue mes ennemis et casse les dents des méchants.
+C'est Lui qui sauve. Sa bénédiction demeurre sur son peuple.
