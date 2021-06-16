@@ -6,9 +6,20 @@
 </script>
 <div id="data">
 
-  [ACCUEIL]()
-  
-<!-- # Des Proverbes, pour {{name}} {{userSexe?'👸':'🤴'}} -->
+<div style="text-align: right"> 
+
+[RETOURNER A L'ACCUEIL]()
+
+</div>  
+
+> Des Proverbes, pour {{name}} {{userSexe?'👸':'🤴'}}
+
+?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
+Alors n'hésite pas {{name}}, à en faire des déclarations personnelles et pourquoi pas des sujets de prière.
+
+<img src='images/ben-white-LJQEDQAmAnI-unsplash.jpg'/>
+
+***
 
 # Un trésor 💎
 
@@ -720,4 +731,9 @@ Au-delà de son charme et de sa beauté, c'est parce qu’elle est soumise au Se
 </span>
 
 <img src='images/bible-102684_1920.jpg' style="margin-top:30px"/>
+
+***
+
+[RETOURNER A L'ACCUEIL]()
+
 </div>

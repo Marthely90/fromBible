@@ -6,9 +6,20 @@
 </script>
 <div id="data">
 
- [ACCUEIL]()
+<div style="text-align: right"> 
+
+[RETOURNER A L'ACCUEIL]()
+
+</div> 
   
-<!-- # Des Psaumes, pour {{name}} {{userSexe?'👸':'🤴'}} -->
+> Des Psaumes, pour {{name}} {{userSexe?'👸':'🤴'}}
+
+?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
+Alors n'hésite pas {{name}}, à en faire des déclarations personnelles et pourquoi pas des sujets de prière.
+
+<img src='images/bible-1846174_1920.jpg'/>
+
+***
 
 # Le vrai bonheur 🐬
 
@@ -63,3 +74,8 @@ Je n'ai plus peur de ces milliers de gens qui m'assaillent de tous côtés.
 
 ?>Le Seigneur frappe à la joue mes ennemis et casse les dents des méchants.
 C'est Lui qui sauve. Sa bénédiction demeure sur son peuple.
+
+***
+
+[RETOURNER A L'ACCUEIL]()
+</div>
