@@ -10,7 +10,7 @@
 
 [RETOURNER A L'ACCUEIL]()
 
-</div> 
+</div>
   
 > Des Psaumes, pour {{name}} {{userSexe?'👸':'🤴'}}
 
