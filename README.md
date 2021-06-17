@@ -20,10 +20,10 @@
 
 <img width='100%' src='images/read-1564105_640.jpg'>
 
-Dieu par sa grâce nous permet de trouver dans ça parole, conduit par le Saint-Esprit, des pépites inestimables de conseils pratiques et des sujets de reflexion sur notre quotidien. A travers cette plateforme j'aimerais partager avec toi {{name}}, ce que l'Eprist m'a apporté dans la méditation de la bible.
+Dieu par sa grâce nous permet de trouver dans sa parole, conduit par le Saint-Esprit, des pépites inestimables de conseils pratiques et des sujets de reflexion sur notre quotidien. A travers cette plateforme j'aimerais partager avec toi {{name}}, ce que l'Eprist m'a apporté dans la méditation de la bible.
 
 ?>J'espère de tout coeur que tu vas trouver des paroles d'encouragement, 
-mais aussi et surtout que cela te permettras de relir chaque texte avec un nouveau regard.
+mais aussi et surtout, que cela te permettras de relir chaque texte avec un nouveau regard.
 
 ***
 
