@@ -89,7 +89,7 @@ Apprenez que le Seigneur me distingue à cause de ma fidélité:
 Il m'écoute quand je l'appelle au secours.
 Quand je suis faché, je ne me mets pas en tort,
 Je réfléchis pendant la nuit et je reste tranquille.
-J'offre plutôt des sacrifes convenables et je me fie à la décision du Seigneur
+J'offre plutôt des sacrifes convenables et je me fie à la décision du Seigneur.
 
 Beaucoup se pleignent :
 "Ah! que nous aimerions voir le bonheur ! Seigneur, fais-nous bon accueil."
