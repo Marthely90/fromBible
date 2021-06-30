@@ -75,6 +75,27 @@ Je n'ai plus peur de ces milliers de gens qui m'assaillent de tous côtés.
 ?>Le Seigneur frappe à la joue mes ennemis et casse les dents des méchants.
 C'est Lui qui sauve. Sa bénédiction demeure sur son peuple.
 
+# Défendu par Dieu ⚔️
+
+> {{ msg }}
+
+Quand je l'appelle au secours, Il rétablit mon droit et me réponds.
+Déjà quand j'étais opprimé, Il m'a rendu la liberté.
+Il me fait la grâce d'écouter ma prière.
+
+Vous autres, jusqu'à quand salirez vous mon honneur, 
+vous qui aimez accuser pour rien, et qui cherchez à me calomnier ?
+Apprenez que le Seigneur me distingue à cause de ma fidélité: 
+Il m'écoute quand je l'appelle au secours.
+Quand je suis faché, je ne me mets pas en tort,
+Je réfléchis pendant la nuit et je reste tranquille.
+J'offre plutôt des sacrifes convenables et je me fie à la décision du Seigneur
+
+Beaucoup se pleignent :
+"Ah! que nous aimerions voir le bonheur ! Seigneur, fais-nous bon accueil."
+?> Mais dans mon coeur le Seigneur met plus de joie que ces gens n'en trouvent à récolter tout leur blé et tout leur vin.
+Aussitôt couché, je m'endort en paix, car le Seigneur me fait vivre en sécurité.
+
 ***
 
 [RETOURNER A L'ACCUEIL]()
