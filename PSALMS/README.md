@@ -94,7 +94,7 @@ J'offre plutôt des sacrifes convenables et je me fie à la décision du Seigneu
 Beaucoup se pleignent :
 "Ah! que nous aimerions voir le bonheur ! Seigneur, fais-nous bon accueil."
 
-?> Mais dans mon coeur le Seigneur met plus de joie que ces gens n'en trouvent à récolter tout leur blé et tout leur vin.
+?>Mais dans mon coeur le Seigneur met plus de joie que ces gens n'en trouvent à récolter tout leur blé et tout leur vin.
 Aussitôt couché, je m'endort en paix, car le Seigneur me fait vivre en sécurité.
 
 ***
