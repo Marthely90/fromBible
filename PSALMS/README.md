@@ -107,7 +107,7 @@ Je sais que mon Dieu ne prend pas plaisir au mal, le méchant n'a pas sa place a
 
 Sa bonté est si grande pour moi que je peux entrer chez Lui pour m'incliner avec respect face à Son sanctuaire. J'ai un Dieu loyal pour guide, Il aplanit devant moi le chemin qu'Il m'appelle à suivre. L'Eternel chasse de mon environnement tous ceux qui sont rebelles.
   
-Je me réjouis, je cris ma joie pour toujours et je chante victoire à cause de toi, <i>tu es mon recours : je t'aime.<i> Tu es un abri pour moi, tu me fais du bien, ta bienveillance est comme un boucier qui me protège.
+Je me réjouis, je cris ma joie pour toujours et je chante victoire à cause de toi, <i>tu es mon recours : je t'aime.</i> Tu es un abri pour moi, tu me fais du bien, ta bienveillance est comme un boucier qui me protège.
  
 ***
 
