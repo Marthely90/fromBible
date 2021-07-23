@@ -118,7 +118,7 @@ Même quand le Seigneur est irrité contre moi, il ne me condamne pas;
 Même quand Il est indigné contre moi, Il renonce à me punir.
 Il a pitié de moi, quand je suis sans force et me guérit quand je suis profondément troublé et en plein désarroi.
 Jusqu'à quand m'en veut-Il ? Il revient toujours me délivrer, car il est si bon, Il me sauve.
-Car dans la mort, je ne pourrais plus penser à Lui, ni le louer.
+Dans la mort, je ne pourrais plus penser à Lui, ni Le louer.
 
 Chaque nuit je soupire et je pleure à cause de mes adversaires.
 Le Seigneur entend mes pleurs, il entend ma supplication et accueille ma prière.
