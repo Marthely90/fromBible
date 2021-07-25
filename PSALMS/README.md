@@ -116,7 +116,7 @@ Je me réjouis, je crie ma joie pour toujours et je chante victoire à cause de 
 
 Même quand le Seigneur est irrité contre moi, il ne me condamne pas;
 Même quand Il est indigné contre moi, Il renonce à me punir.
-Il a pitié de moi, quand je suis sans force et me guérit quand je suis profondément troublé et en plein désarroi.
+Il a pitié de moi, quand je suis sans force. Il me guérit quand je suis profondément troublé et en plein désarroi.
 Jusqu'à quand m'en veut-Il ? Il revient toujours me délivrer, car il est si bon, Il me sauve.
 Dans la mort, je ne pourrais plus penser à Lui, ni Le louer.
 
@@ -124,7 +124,39 @@ Chaque nuit je soupire et je pleure à cause de mes adversaires.
 Le Seigneur entend mes pleurs, il entend ma supplication et accueille ma prière.
 Alors mes ennemis sont plongés dans le désarroi et repartent couverts de honte !
   
-  
+# Le Seigneur me rend justice ⚔️
+
+> {{ msg }}
+
+Le Seigneur mon Dieu est mon recours, Il me sauve et me délivre de tout ceux qui me persécutent. 
+Sans Son intervention, ils m'auraient déchiré comme des lions; me mettant en pièces sans que personne ne lève le petit doigts. 
+  De quoi m'accuse t-on ? 
+  * Aie-je rendu le mal pour le mal ?
+  * Aie-je dépouillé celui qui m'envoullait sans raison ?
+  * Aie je commis un crime ?
+Non !
+Alors il est inadmissible que l'ennemi me poursuive, qu'il me rattrappe, qu'il me piétine ou traîne mon honneur dans la boue !
+
+Mon seigneur se fâche et intervient. 
+Il s'oppose à mes adversiares. 
+Celui qui établit le droit, veille auprès de moi. 
+Les peuples se rassemblent autour de Lui; et Lui, Il les domines du haut de son trône. 
+Il rend justice à ma loyauté et à mon innocence. 
+Il fait cesser les mefaits des méchants, affermit ma fidélité, lui qui perce le secret de ma conscience : <i>le Dieu juste</i>
+
+Mon bouclier protecteur, c'est Dieu :  le sauveur des hommes au coeur droit. 
+Dieu est un juste juge, même dans Sa sévérité.
+Il peuvent recommencer :
+  * éguiser l'épée
+  * tendre l'arc
+  * préparer des armes de morts
+  * apprêter des flèches incendiaires
+  * concevoir des méfaits qui portent malheur et qui accouchent du mensonge
+Ils creusent là, un trou profond... Ils tomberont dans leur propre piège.
+Le mahleur qu'ils ont préparé leur reviendra sur la tête; la violence qu'ils ont conçue leur retombera sur le crâne.
+
+?> Je veux louer le Seigneur pour ça loyauté, et célébrer par mes chants le nom du très-haut.
+ 
 ***
 
 [RETOURNER A L'ACCUEIL]()
