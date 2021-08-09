@@ -161,7 +161,7 @@ Le malheur qu'ils ont préparé leur reviendra sur la tête; la violence qu'ils 
 ?> Je veux louer le Seigneur pour ça loyauté, et célébrer par mes chants le nom du Très haut.
 
   
-# Pour la gloire de Dieu, je suis grand ⚔️
+# Pour la gloire de Dieu, je suis grand 🚼
 
 > {{ msg }}
 
