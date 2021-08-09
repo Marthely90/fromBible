@@ -159,7 +159,24 @@ Ils creusent là, un trou profond... Ils tomberont dans leur propre piège.
 Le malheur qu'ils ont préparé leur reviendra sur la tête; la violence qu'ils ont conçue leur retombera sur le crâne.
 
 ?> Je veux louer le Seigneur pour ça loyauté, et célébrer par mes chants le nom du Très haut.
- 
+
+  
+# Pour la gloire de Dieu, je suis grand ⚔️
+
+> {{ msg }}
+
+Le Seigneur est mon Maître, Sa renommée est grande sur la terre !
+Sa majesté surpasse la majesté du ciel.
+Il oppose à ses adversaires la voix des tout petits enfants, comme un rempart dressé pour réduire au silence, les plus acharnés.
+
+Quand je vois le ciel ouvrage de ses mains, la lune et les étoiles qu'Il a placé, Je me demande : 
+  * Ai-je tant d'importance pour qu'Il pense à moi ?
+  * Est-ce que je mérite vraiment qu'Il s'occupe de moi ?
+
+Et bien, Il m'a fait presque égal aux anges, me couronnant de gloire et d'honneur, en me faisant régner sur toute sa création : <i> Il a tout mis à mes pieds </i>
+
+?> Oui, la renommée de mon Maître est grande sur toute la terre !
+  
 ***
 
 [RETOURNER A L'ACCUEIL]()
