@@ -182,22 +182,22 @@ Et bien, Il m'a fait presque égal aux anges, me couronnant de gloire et d'honne
 
 > {{ msg }}
 
-Je louerais le Seigneur, et raconterais toutes ses merveilles. Je chanterais victoire au Dieu Très haut, et le célébrerais par mes chants. Alors mes ennemis font demi-tour, ils trébuchent et succombent devant le Dieu qui me fait droit et me rend justice: <i> il siège dans la justice !</i> 
+Je loue le Seigneur, et je raconte toutes ses merveilles. Je chante victoire au Dieu Très haut, et je le célèbre par mes chants. Alors mes ennemis font demi-tour, ils trébuchent et succombent devant le Dieu qui me fait droit et me rend justice: <i> il siège dans la justice !</i> 
 Il menace les païens et fait succomber les infidèles, effaçant leurs noms pour toujours : il ne reste d'eux aucun souvenir.
   
 Le Seigneur siège sur son trône éternel; Il est mon refuge dans les temps de détresse.
 C'est lui qui juge le monde avec justice; je compte sur Lui car je sais qui Il est.
-Il  arbitre impartialement entre les peuples; je sais qu'Il ne m'abandonnera pas quand je me tourne vers lui.
-Je le célébrerai par mes chants parmi les peuples et proclamerai ses exploits.
+Il  arbitre impartialement entre les peuples; je sais qu'Il ne m'abandonnera pas quand je me tournerai vers lui.
+Je le célèbre par mes chants parmi les peuples et je proclame ses exploits.
 
-Il m'accorde son appui et considère la misère que j'endure par la faute de ceux qui m'en veulent. Il m'arrache des griffes de la mort. Alors dans la communauté des saints, je répéterai tous les motifs que j'ai pour le louer; je crierai ma joie de l'avoir comme sauveur.
+Il m'accorde son appui et considère la misère que j'endure par la faute de ceux qui m'en veulent. Il m'arrache des griffes de la mort. Alors dans la communauté des saints, je répète tous les motifs que j'ai pour le louer; je crie ma joie de l'avoir comme sauveur.
   
 Mes ennemis tombent dans la fosse qu'ils avaient creusée; il retourne au séjour des morts.
 Ils se prennent les pieds au filet qu'ils avaient tendu en cachette; ils avaient tous oublié qui est Dieu.
 Le Seigneur m'a montré qui il était; il n'oublie jamais le malheureux.
 Il rend justice; l'espoir n'est jamais perdu pour moi, car il prend mes ennemis à leur propre piège.
   
-Quand le Seigneur intervient, l'homme ne peut pas être le plus fort.
+    Quand le Seigneur intervient, l'homme ne peut pas être le plus fort.
     <i>Ils ne sont que des hommes</i>; devant le tribunal du Seigneur, ils trembleront de peur.
   
 ***
