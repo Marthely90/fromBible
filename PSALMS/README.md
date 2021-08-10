@@ -198,7 +198,7 @@ Le Seigneur m'a montré qui il était; il n'oublie jamais le malheureux.
 Il rend justice; l'espoir n'est jamais perdu pour moi, car il prend mes ennemis à leur propre piège.
   
     Quand le Seigneur intervient, l'homme ne peut pas être le plus fort.
-    <i>Ils ne sont que des hommes</i>; devant le tribunal du Seigneur, ils trembleront de peur.
+    Ils ne sont que des hommes; devant le tribunal du Seigneur, ils trembleront de peur.
   
 ***
 
