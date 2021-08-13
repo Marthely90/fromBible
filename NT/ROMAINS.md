@@ -1,3 +1,9 @@
+<div style="text-align: right"> 
+
+[RETOURNER A L'ACCUEIL]()
+
+</div>  
+
 # Première lettre de Paul aux Romains
 
 ## <b>CHAPITRE I</b>
@@ -80,3 +86,7 @@ En Jésus Christ, nous sommes libéré du péché. Il a prit sur lui notre conda
 La promessse est certaine: nous sommes sauvés. Nous attendons tous avec foi, la révélation de tous les rachetés et la fin des souffrances qui précèdent l'accouchement. Et nous avons un allié de choix en attendant: l'Esprit-Saint. Il nous aide au quotidient et transmet pour nous au près du Père, les désirs profond et pur de nos coeur. Nous pouvons lui faire confiance à ce sujet, il nous connait mieu que nous même et donc tout ce qu'il fait et permet dans nos vies, c'est pour notre bien.
 
  Par ce sacrifice Dieu nous a montré qu'Il se donnera toujours tout entier pour notre salut. Or Sa puissnace n'a aucune limite. Cela nous garanti une complète victoire à la fin de ce parcours, quoi qu'il se passe.
+
+ ***
+
+[RETOURNER A L'ACCUEIL]()

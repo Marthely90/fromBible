@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 * [ACCUEIL](/)
+
 * Les PROVERBES
     * [I - Un trésor 💎](#un-trésor-💎)
     * [II - Le chemin du bonheur 🗽](#le-chemin-du-bonheur-🗽)
@@ -32,3 +33,5 @@
     * [XXIX - Source de joie 🎊](#source-de-joie-🎊)
     * [XXX - Rien à y ajouter 🧫](#rien-à-y-ajouter-🧫)
     * [XXXI - Conseil à un(e) roi🤴/reine👸](#conseil-à-usersexe39une-reine3939un-roi39-usersexe39👸3939🤴39)
+
+* [ACCUEIL](/)
