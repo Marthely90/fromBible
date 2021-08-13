@@ -11,7 +11,8 @@
 [RETOURNER A L'ACCUEIL]()
 
 </div>
-  
+
+
 > Des Psaumes, pour {{name}} {{userSexe?'👸':'🤴'}}
 
 ?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.

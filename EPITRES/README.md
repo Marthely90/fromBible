@@ -14,6 +14,8 @@
 
 > Méditons un moment sur ce que nous dit Paul.
 
+<img src='images/ben-white-LJQEDQAmAnI-unsplash.jpg'/>
+
 ***
 # La grâce est en Jésus seul, {{name}} ⚠️
 

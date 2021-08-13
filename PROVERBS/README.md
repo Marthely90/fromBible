@@ -17,7 +17,7 @@
 ?> Je crois très sincèrement - comme pouvait le faire le roi David - que  déclarer ce que Dieu dit de nous, est salutaire pour notre âme.
 Alors n'hésite pas {{name}}, à en faire des déclarations personnelles et pourquoi pas des sujets de prière.
 
-<img src='images/ben-white-LJQEDQAmAnI-unsplash.jpg'/>
+<img src='images/bible-102684_1920.jpg' style="margin-top:30px"/>
 
 ***
 
@@ -729,8 +729,6 @@ Je suis honoré d'être son mari, moi qui siège au conseil de la ville.
 Nos enfants viennent la féliciter et moi aussi je fais son éloge : "<i>bien des filles montrent leur valeur, mai elle, elle les surpasse toutes."</i> 
 Au-delà de son charme et de sa beauté, c'est parce qu’elle est soumise au Seigneur, qu'elle est digne de louanges.
 </span>
-
-<img src='images/bible-102684_1920.jpg' style="margin-top:30px"/>
 
 ***
 
