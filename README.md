@@ -10,9 +10,9 @@
 
 <div style="text-align: center"> 
 
-[PSAUMES](/PSALMS/) - [PROVERBES](/PROVERBS/)
-
-<!-- [EPITRES DE PAUL](/EPITRES/) -->
+## [PSAUMES](/PSALMS/)
+## [PROVERBES](/PROVERBS/)
+<!-- ## [EPITRES DE PAUL](/EPITRES/) -->
 
 </div> 
 
