@@ -683,7 +683,7 @@ Quand j'écoute les conseils que Lemouel, roi de Massa, a reçus de sa mère, vo
 <span v-if="sexeFm">
 Je ne gâcherais pas les forces d'un homme, pour le perdre. 
 Cela ne me convient pas de boire du vin et d'aimer les boissons enivrantes, car après avoir bu je pourrai oublier le droit. 
-Je suis une femme vaillante : quelle joie pour celui qui m'a épousé ! 
+Je suis une femme vaillante : quelle joie pour mon époux ! 
 J'ai plus de valeur que les perles précieuses. 
 Notre maison ne manque de rien; je ne lui cause jamais de tort, mais je lui donne du bonheur tous les jours de sa vie. 
 Comment ?</br>
@@ -701,7 +701,7 @@ Ma force et ma dignité sont ma parure; J'envisage l'avenir avec le sourire.
 Je m'exprime avec sagesse et je sais donner des conseils avec bonté. 
 Je veille à la bonne marche de la maison et je ne nourris aucune paresse.
 Je suis honoré par mon mari, qui siège au conseil de la ville. 
-Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montrent leur valeur, mai toi - dit-il - tu les surpasses toutes."</i> 
+Nos enfants viennent me féliciter et mon mari aussi me fait son éloge : "<i>bien des filles montrent leur valeur, mai toi - dit-il - tu les surpasse toutes."</i> 
 Au-delà de mon charme et de ma beauté, c'est parce que je suis soumise au Seigneur, que je suis digne de louanges.
 </span>
 <span v-else="sexeFm">
