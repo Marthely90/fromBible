@@ -71,7 +71,7 @@ Souviens toi de nos ancêtre dans le désert. Ils ont été rebelle, après tout
 
 Jésus est venu pour te montrer la voie {{name}}. Pour ne pas que tu te sente piégé, tu sais Il a choisit de devenir un modèle pour toi. En plus il te garantie que tu ne sera jamais seul. Il est avec toi par son Esprit et il intercède au près du Père pour toi. Il veut accomplir avec toi cette bonne oeuvre, afin que tu atteignes aussi ta terre promises; tout ce qu'Il te demande c'est de Lui faire confiance et de Lui laisser les commandes.
 
-# Hebreux 5
+# Un leader et un modèle
 
 Tout comme il n'est pas possible de s'autodéclarer serviteur de Dieu, même Jésus a reçu son mandat du Père. Un mandat audible et visible en <a>Matthieu 3:17</a>. Et depuis l'ancien testamant on annonce ça venu et on revèle sa mission.
 
