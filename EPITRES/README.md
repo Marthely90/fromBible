@@ -73,9 +73,9 @@ Jésus est venu pour te montrer la voie {{name}}. Pour ne pas que tu te sente pi
 
 # Un leader et un modèle
 
-Tout comme il n'est pas possible de s'autodéclarer serviteur de Dieu, même Jésus a reçu son mandat du Père. Un mandat audible et visible en <a>Matthieu 3:17</a>. Et depuis l'ancien testamant on annonce ça venu et on revèle sa mission.
+Tout comme il n'est pas possible de s'autodéclarer serviteur de Dieu, même Jésus a reçu son mandat du Père. Un mandat audible et visible en  <a href='https://saintebible.com/matthew/3-17.htm' target='_blank'>Matthieu 3:17</a>. Et depuis l'ancien testamant on annonce ça venu et on revèle sa mission.
 
-En tant que fils de Dieu et chef de l'armée céleste, Il aurait pu faire de plus grand prodige sans avoir à se salir les mains. Vas demander au centenier romain en Luc 7, il te répondra au <a>verset 8</a>. Qui, mieux qu'un soldat peut t'expliquer le vrai sens d'une autorité ?
+En tant que fils de Dieu et chef de l'armée céleste, Il aurait pu faire de plus grand prodige sans avoir à se salir les mains. Vas demander au centenier romain en Luc 7, il te répondra au  <a href='https://saintebible.com/luke/7-8.htm' target='_blank'>verset 8</a>. Qui, mieux qu'un soldat peut t'expliquer le vrai sens d'une autorité ?
 
 Mais Jésus a choisit d'être un modèle au lieu de se présenter en donneur de leçons; 
 Il a choisit de devenir ton leader au lieu de prendre la place du chef.
