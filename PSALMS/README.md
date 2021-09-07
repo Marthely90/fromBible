@@ -199,7 +199,20 @@ Le Seigneur m'a montré qui il était; il n'oublie jamais le malheureux.
 Il rend justice; l'espoir n'est jamais perdu pour moi, car il prend mes ennemis à leur propre piège.
   
 ?> Quand le Seigneur intervient, l'homme ne peut pas être le plus fort. Ils ne sont que des hommes; devant le tribunal du Seigneur, ils trembleront de peur.
-  
+
+# Non à la Tyrannie  🚫
+
+> {{ msg }}
+
+Le Seigneur est debout ! Il ne m'oublie jamais. Comment le méchant se moquerait-il ?
+L'Eternel voit ma peine et mes tourmant, c'est pourquoi il prend en main ma cause.
+C'est à l'Eternel que je remets mon sort; je sais qu'Il viendra à mon secours.
+Il brise le pouvoir du méchant sans foi ni loi. Le Seigneur est mon roi pour toujours.
+
+Le Seigneur entend mes humbles souhaits et me rend courage.
+Il m'écoute avec attention, pour me faire droit.
+Ainsi personne sur terre ne pourra plus me tyranniser.
+
 ***
 
 [RETOURNER A L'ACCUEIL]()
